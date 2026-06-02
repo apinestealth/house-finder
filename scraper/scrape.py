@@ -145,6 +145,12 @@ def parse_row(row: dict) -> dict | None:
         return None
     is_land = "land" in pt_lower
 
+    # Drop listings with any HOA. They tend to be condos/townhouses on tiny
+    # shared lots — not what we want.
+    hoa = _to_float(row.get("HOA/MONTH"))
+    if hoa is not None and hoa > 0:
+        return None
+
     url_field = next(
         (row[k] for k in row.keys() if k and k.startswith("URL")),
         None,
