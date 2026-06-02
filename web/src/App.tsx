@@ -6,7 +6,7 @@ import { FilterState, Listing, ListingsData, Resort, SortKey } from "./types";
 
 const DEFAULT_FILTERS: FilterState = {
   priceMin: 0,
-  priceMax: 100_000,
+  priceMax: 150_000,
   acresMin: 2,
   acresMax: 500,
   yearBuiltMin: 1700,
