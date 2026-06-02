@@ -14,7 +14,7 @@ from typing import Iterable
 import requests
 
 OSRM_BASE = "https://router.project-osrm.org"
-RIDGEWOOD_NJ = (40.9793, -74.1165)
+RIDGEWOOD = (40.7048, -73.9027)  # Ridgewood, Queens, NY 11385
 METERS_PER_MILE = 1609.344
 GRID_DECIMALS = 2  # ~1.1km cell
 HAVERSINE_CANDIDATES = 3  # OSRM-route only the N nearest resorts by straight-line
@@ -82,42 +82,43 @@ def compute_distances(
     resorts: list[dict],
     cache: DistanceCache,
 ) -> dict | None:
-    """Returns {ridgewoodMiles, ridgewoodHours, skiMiles, skiHours, skiName} or None."""
-    key = grid_key(lat, lng)
-    cached = cache.get(key)
-    if cached:
-        return cached
+    """Returns {ridgewoodMiles, ridgewoodHours, skiMiles, skiHours, skiName} or None.
 
+    Recomputes any missing fields against the current RIDGEWOOD / resorts list
+    — so changing the destination invalidates that half of the cache only.
+    """
+    key = grid_key(lat, lng)
+    cached = dict(cache.get(key) or {})
     origin = (lat, lng)
 
-    rw = osrm_route(origin, RIDGEWOOD_NJ)
-    if rw is None:
-        return None
+    if "ridgewoodMiles" not in cached or "ridgewoodHours" not in cached:
+        rw = osrm_route(origin, RIDGEWOOD)
+        if rw is None:
+            return None
+        cached["ridgewoodMiles"] = round(rw[0], 1)
+        cached["ridgewoodHours"] = round(rw[1], 2)
 
-    # Pick top-N nearest resorts by haversine, then route each.
-    by_havers = sorted(
-        resorts,
-        key=lambda r: haversine_miles(origin, (r["lat"], r["lng"])),
-    )[:HAVERSINE_CANDIDATES]
+    if "skiMiles" not in cached or "skiName" not in cached:
+        by_havers = sorted(
+            resorts,
+            key=lambda r: haversine_miles(origin, (r["lat"], r["lng"])),
+        )[:HAVERSINE_CANDIDATES]
 
-    best: tuple[float, float, str] | None = None
-    for r in by_havers:
-        result = osrm_route(origin, (r["lat"], r["lng"]))
-        if result is None:
-            continue
-        miles, hours = result
-        if best is None or miles < best[0]:
-            best = (miles, hours, r["name"])
+        best: tuple[float, float, str] | None = None
+        for r in by_havers:
+            result = osrm_route(origin, (r["lat"], r["lng"]))
+            if result is None:
+                continue
+            miles, hours = result
+            if best is None or miles < best[0]:
+                best = (miles, hours, r["name"])
 
-    if best is None:
-        return None
+        if best is None:
+            return None
 
-    value = {
-        "ridgewoodMiles": round(rw[0], 1),
-        "ridgewoodHours": round(rw[1], 2),
-        "skiMiles": round(best[0], 1),
-        "skiHours": round(best[1], 2),
-        "skiName": best[2],
-    }
-    cache.put(key, value)
-    return value
+        cached["skiMiles"] = round(best[0], 1)
+        cached["skiHours"] = round(best[1], 2)
+        cached["skiName"] = best[2]
+
+    cache.put(key, cached)
+    return cached

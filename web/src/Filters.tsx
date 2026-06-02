@@ -116,7 +116,7 @@ export function Filters({ value, onChange }: Props) {
 
       <div className="field">
         <label>
-          Max drive to Ridgewood NJ: {value.ridgewoodHoursMax.toFixed(1)}h
+          Max drive to Ridgewood NY: {value.ridgewoodHoursMax.toFixed(1)}h
         </label>
         <input
           type="range"

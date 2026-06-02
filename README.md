@@ -1,9 +1,9 @@
 # House Finder
 
-Personal tool for finding cheap Northeast US land + cabins near ski areas and within drive of Ridgewood, NJ.
+Personal tool for finding cheap Northeast US land + cabins near ski areas and within drive of Ridgewood, NY.
 
-- **Daily scrape** of Redfin for listings ≤ $200k on ≥ 2 acres across NY, VT, NH, ME, MA, RI
-- For each listing, computes driving time to Ridgewood NJ and nearest of ~50 NE ski resorts using the free OSRM public demo server
+- **Daily scrape** of Redfin for listings ≤ $100k on ≥ 2 acres across NY, VT, NH, ME, MA, RI
+- For each listing, computes driving time to Ridgewood NY and nearest of ~50 NE ski resorts using the free OSRM public demo server
 - **UI** (map + filterable list) deployed for free on GitHub Pages
 
 ```
@@ -71,7 +71,7 @@ Open the dev URL Vite prints (usually `http://localhost:5173`).
 ## Tweaking what gets scraped
 
 `scraper/scrape.py`:
-- `PRICE_CAP = 200_000` — daily-scrape price ceiling
+- `PRICE_CAP = 100_000` — daily-scrape price ceiling
 - `MIN_ACRES = 2` — daily-scrape acreage floor
 - `STATE_NAMES` — which states to crawl
 - `uipt=1,5,6,7` in `fetch_listings_csv` — property types (1=house, 5=land, 6=other, 7=manufactured)

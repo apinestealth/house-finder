@@ -6,6 +6,9 @@ venv/
 node_modules/
 dist/
 .vite/
+*.tsbuildinfo
+web/vite.config.d.ts
+web/vite.config.js
 
 .DS_Store
 .env
