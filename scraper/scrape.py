@@ -96,7 +96,7 @@ def fetch_listings_csv(
         "sf": "1,2,3,5,6,7",
         "start": "0",
         "status": "9",
-        "uipt": "1,5,6,7",
+        "uipt": "1,5",
         "v": "8",
     }
     r = session.get(url, params=params, timeout=30)
@@ -140,7 +140,10 @@ def parse_row(row: dict) -> dict | None:
         return None
 
     prop_type = (row.get("PROPERTY TYPE") or "").strip()
-    is_land = "land" in prop_type.lower()
+    pt_lower = prop_type.lower()
+    if "manufactured" in pt_lower or "mobile" in pt_lower or "parking" in pt_lower:
+        return None
+    is_land = "land" in pt_lower
 
     url_field = next(
         (row[k] for k in row.keys() if k and k.startswith("URL")),
@@ -233,7 +236,7 @@ def main() -> int:
             "maxPrice": PRICE_CAP,
             "minAcres": MIN_ACRES,
             "states": list(STATE_SLUGS.keys()),
-            "propertyTypes": ["house", "land", "other", "manufactured"],
+            "propertyTypes": ["house", "land"],
         },
         "listings": deduped,
     }
