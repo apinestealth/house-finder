@@ -60,10 +60,33 @@ html, body, #root {
 
 .filters h2 {
   font-size: 13px;
-  margin: 0 0 12px;
+  margin: 0;
   text-transform: uppercase;
   color: var(--muted);
   letter-spacing: 0.04em;
+}
+
+.filters-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.clear-btn {
+  font-size: 11px;
+  padding: 3px 8px;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  border-radius: 4px;
+  cursor: pointer;
+  color: var(--muted);
+}
+
+.clear-btn:hover {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-color: var(--accent);
 }
 
 .field {

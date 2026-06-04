@@ -4,6 +4,8 @@ import { ListingCard } from "./ListingCard";
 import { MapView } from "./MapView";
 import { FilterState, Listing, ListingsData, Resort, SortKey } from "./types";
 
+const ALL_STATES = ["NY", "VT", "NH", "ME", "MA", "RI"];
+
 const DEFAULT_FILTERS: FilterState = {
   priceMin: 0,
   priceMax: 100_000,
@@ -14,9 +16,25 @@ const DEFAULT_FILTERS: FilterState = {
   skiHoursMax: 1,
   ridgewoodHoursMax: 6,
   propertyType: "all",
-  states: new Set(["NY", "VT", "NH", "ME", "MA", "RI"]),
+  states: new Set(ALL_STATES),
   sortBy: "ridgewoodHoursAsc",
 };
+
+function clearedFilters(sortBy: FilterState["sortBy"]): FilterState {
+  return {
+    priceMin: 0,
+    priceMax: 1_000_000,
+    acresMin: 0,
+    acresMax: 5000,
+    yearBuiltMin: 1700,
+    yearBuiltMax: 2100,
+    skiHoursMax: 8,
+    ridgewoodHoursMax: 12,
+    propertyType: "all",
+    states: new Set(ALL_STATES),
+    sortBy,
+  };
+}
 
 const SORT_LABELS: Record<SortKey, string> = {
   ridgewoodHoursAsc: "Drive to Ridgewood ↑",
@@ -72,7 +90,11 @@ export default function App() {
         </div>
       </div>
       <div className="body">
-        <Filters value={filters} onChange={setFilters} />
+        <Filters
+          value={filters}
+          onChange={setFilters}
+          onClear={() => setFilters(clearedFilters(filters.sortBy))}
+        />
         <div className="list-pane">
           <div className="list-toolbar">
             <div className="count">{sorted.length} matches</div>

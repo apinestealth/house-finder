@@ -5,9 +5,10 @@ const STATES = ["NY", "VT", "NH", "ME", "MA", "RI"];
 type Props = {
   value: FilterState;
   onChange: (next: FilterState) => void;
+  onClear: () => void;
 };
 
-export function Filters({ value, onChange }: Props) {
+export function Filters({ value, onChange, onClear }: Props) {
   const set = <K extends keyof FilterState>(key: K, v: FilterState[K]) =>
     onChange({ ...value, [key]: v });
 
@@ -20,7 +21,12 @@ export function Filters({ value, onChange }: Props) {
 
   return (
     <div className="filters">
-      <h2>Filters</h2>
+      <div className="filters-header">
+        <h2>Filters</h2>
+        <button className="clear-btn" onClick={onClear} title="Remove all filter constraints">
+          Clear all
+        </button>
+      </div>
 
       <div className="field">
         <label>Property type</label>
