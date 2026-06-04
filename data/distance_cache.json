@@ -6,6 +6,13 @@
     "skiMiles": 24.8,
     "skiName": "Yawgoo Valley"
   },
+  "41.39,-71.83": {
+    "ridgewoodHours": 3.16,
+    "ridgewoodMiles": 139.4,
+    "skiHours": 0.72,
+    "skiMiles": 27.9,
+    "skiName": "Yawgoo Valley"
+  },
   "41.49,-73.54": {
     "ridgewoodHours": 1.58,
     "ridgewoodMiles": 65.6,
@@ -29,6 +36,13 @@
     "skiHours": 1.08,
     "skiMiles": 42.5,
     "skiName": "Holiday Mountain"
+  },
+  "41.64,-71.79": {
+    "ridgewoodHours": 3.6,
+    "ridgewoodMiles": 155.9,
+    "skiHours": 0.66,
+    "skiMiles": 19.9,
+    "skiName": "Yawgoo Valley"
   },
   "41.69,-74.21": {
     "skiHours": 0.87,
@@ -68,10 +82,24 @@
     "skiMiles": 40.8,
     "skiName": "Blue Hills"
   },
+  "41.72,-71.26": {
+    "ridgewoodHours": 4.23,
+    "ridgewoodMiles": 189.4,
+    "skiHours": 0.93,
+    "skiMiles": 35.1,
+    "skiName": "Yawgoo Valley"
+  },
   "41.72,-73.96": {
     "skiHours": 1.18,
     "skiMiles": 47.5,
     "skiName": "Hunter Mountain"
+  },
+  "41.73,-71.55": {
+    "ridgewoodHours": 3.73,
+    "ridgewoodMiles": 165.8,
+    "skiHours": 0.55,
+    "skiMiles": 17.3,
+    "skiName": "Yawgoo Valley"
   },
   "41.75,-71.2": {
     "skiHours": 0.86,
@@ -87,6 +115,13 @@
     "skiHours": 0.69,
     "skiMiles": 24.2,
     "skiName": "Holiday Mountain"
+  },
+  "41.76,-71.32": {
+    "ridgewoodHours": 4.08,
+    "ridgewoodMiles": 184.0,
+    "skiHours": 0.78,
+    "skiMiles": 29.7,
+    "skiName": "Yawgoo Valley"
   },
   "41.76,-74.0": {
     "skiHours": 1.25,
@@ -180,6 +215,20 @@
     "skiMiles": 26.9,
     "skiName": "Hunter Mountain"
   },
+  "41.91,-70.8": {
+    "ridgewoodHours": 4.71,
+    "ridgewoodMiles": 210.3,
+    "skiHours": 0.79,
+    "skiMiles": 35.9,
+    "skiName": "Blue Hills"
+  },
+  "41.91,-70.95": {
+    "ridgewoodHours": 4.56,
+    "ridgewoodMiles": 202.1,
+    "skiHours": 0.64,
+    "skiMiles": 27.7,
+    "skiName": "Blue Hills"
+  },
   "41.91,-71.67": {
     "skiHours": 0.82,
     "skiMiles": 33.4,
@@ -204,6 +253,20 @@
     "skiMiles": 31.9,
     "skiName": "Hunter Mountain"
   },
+  "41.94,-74.54": {
+    "ridgewoodHours": 3.01,
+    "ridgewoodMiles": 121.4,
+    "skiHours": 1.08,
+    "skiMiles": 27.9,
+    "skiName": "Belleayre"
+  },
+  "41.95,-70.68": {
+    "ridgewoodHours": 4.86,
+    "ridgewoodMiles": 217.9,
+    "skiHours": 0.79,
+    "skiMiles": 34.4,
+    "skiName": "Blue Hills"
+  },
   "41.95,-71.25": {
     "ridgewoodHours": 4.2,
     "ridgewoodMiles": 194.9,
@@ -217,6 +280,13 @@
     "skiHours": 0.85,
     "skiMiles": 33.8,
     "skiName": "Yawgoo Valley"
+  },
+  "41.96,-71.18": {
+    "ridgewoodHours": 4.33,
+    "ridgewoodMiles": 199.0,
+    "skiHours": 0.59,
+    "skiMiles": 23.7,
+    "skiName": "Blue Hills"
   },
   "41.96,-71.72": {
     "skiHours": 0.96,
@@ -302,6 +372,13 @@
     "skiMiles": 18.2,
     "skiName": "Hunter Mountain"
   },
+  "42.05,-71.57": {
+    "ridgewoodHours": 4.05,
+    "ridgewoodMiles": 182.2,
+    "skiHours": 1.0,
+    "skiMiles": 41.0,
+    "skiName": "Blue Hills"
+  },
   "42.05,-71.59": {
     "ridgewoodHours": 4.02,
     "ridgewoodMiles": 181.4,
@@ -309,11 +386,46 @@
     "skiMiles": 41.8,
     "skiName": "Yawgoo Valley"
   },
+  "42.05,-71.75": {
+    "ridgewoodHours": 3.89,
+    "ridgewoodMiles": 180.1,
+    "skiHours": 1.15,
+    "skiMiles": 41.1,
+    "skiName": "Wachusett"
+  },
+  "42.05,-71.98": {
+    "ridgewoodHours": 3.54,
+    "ridgewoodMiles": 160.1,
+    "skiHours": 1.23,
+    "skiMiles": 46.0,
+    "skiName": "Wachusett"
+  },
+  "42.05,-72.04": {
+    "ridgewoodHours": 3.52,
+    "ridgewoodMiles": 157.8,
+    "skiHours": 1.27,
+    "skiMiles": 44.5,
+    "skiName": "Wachusett"
+  },
+  "42.05,-72.23": {
+    "ridgewoodHours": 3.33,
+    "ridgewoodMiles": 146.6,
+    "skiHours": 1.45,
+    "skiMiles": 55.3,
+    "skiName": "Wachusett"
+  },
   "42.05,-72.49": {
     "ridgewoodHours": 3.2,
     "ridgewoodMiles": 138.3,
     "skiHours": 1.14,
     "skiMiles": 37.3,
+    "skiName": "Otis Ridge"
+  },
+  "42.05,-72.74": {
+    "ridgewoodHours": 3.17,
+    "ridgewoodMiles": 136.0,
+    "skiHours": 0.87,
+    "skiMiles": 27.3,
     "skiName": "Otis Ridge"
   },
   "42.05,-74.47": {
@@ -378,6 +490,20 @@
     "skiMiles": 49.8,
     "skiName": "Wachusett"
   },
+  "42.07,-72.41": {
+    "ridgewoodHours": 3.32,
+    "ridgewoodMiles": 140.3,
+    "skiHours": 1.29,
+    "skiMiles": 41.7,
+    "skiName": "Otis Ridge"
+  },
+  "42.07,-72.89": {
+    "ridgewoodHours": 3.15,
+    "ridgewoodMiles": 132.2,
+    "skiHours": 0.54,
+    "skiMiles": 17.2,
+    "skiName": "Otis Ridge"
+  },
   "42.08,-70.98": {
     "ridgewoodHours": 4.77,
     "ridgewoodMiles": 214.8,
@@ -403,6 +529,20 @@
     "skiHours": 1.59,
     "skiMiles": 56.4,
     "skiName": "Wachusett"
+  },
+  "42.08,-72.33": {
+    "ridgewoodHours": 3.43,
+    "ridgewoodMiles": 146.9,
+    "skiHours": 1.42,
+    "skiMiles": 52.9,
+    "skiName": "Otis Ridge"
+  },
+  "42.08,-72.66": {
+    "ridgewoodHours": 3.18,
+    "ridgewoodMiles": 141.3,
+    "skiHours": 0.87,
+    "skiMiles": 28.4,
+    "skiName": "Otis Ridge"
   },
   "42.08,-74.0": {
     "skiHours": 0.57,
@@ -444,6 +584,27 @@
     "skiMiles": 47.4,
     "skiName": "Otis Ridge"
   },
+  "42.1,-72.4": {
+    "ridgewoodHours": 3.4,
+    "ridgewoodMiles": 143.0,
+    "skiHours": 1.32,
+    "skiMiles": 45.7,
+    "skiName": "Otis Ridge"
+  },
+  "42.1,-72.58": {
+    "ridgewoodHours": 3.07,
+    "ridgewoodMiles": 137.4,
+    "skiHours": 0.97,
+    "skiMiles": 31.3,
+    "skiName": "Otis Ridge"
+  },
+  "42.1,-73.05": {
+    "ridgewoodHours": 3.02,
+    "ridgewoodMiles": 128.0,
+    "skiHours": 0.29,
+    "skiMiles": 8.2,
+    "skiName": "Otis Ridge"
+  },
   "42.11,-71.52": {
     "ridgewoodHours": 4.23,
     "ridgewoodMiles": 188.2,
@@ -480,6 +641,13 @@
     "skiMiles": 40.0,
     "skiName": "Wachusett"
   },
+  "42.11,-72.2": {
+    "ridgewoodHours": 3.47,
+    "ridgewoodMiles": 151.3,
+    "skiHours": 1.31,
+    "skiMiles": 50.5,
+    "skiName": "Wachusett"
+  },
   "42.11,-72.32": {
     "ridgewoodHours": 3.46,
     "ridgewoodMiles": 149.4,
@@ -490,6 +658,13 @@
   "42.11,-73.97": {
     "skiHours": 0.48,
     "skiMiles": 17.2,
+    "skiName": "Hunter Mountain"
+  },
+  "42.11,-74.01": {
+    "ridgewoodHours": 2.51,
+    "ridgewoodMiles": 112.1,
+    "skiHours": 0.52,
+    "skiMiles": 17.6,
     "skiName": "Hunter Mountain"
   },
   "42.11,-74.54": {
@@ -573,11 +748,32 @@
     "skiMiles": 12.7,
     "skiName": "Butternut"
   },
+  "42.15,-71.99": {
+    "ridgewoodHours": 3.48,
+    "ridgewoodMiles": 157.9,
+    "skiHours": 1.04,
+    "skiMiles": 37.5,
+    "skiName": "Wachusett"
+  },
   "42.15,-72.03": {
     "ridgewoodHours": 3.47,
     "ridgewoodMiles": 156.8,
     "skiHours": 1.13,
     "skiMiles": 31.4,
+    "skiName": "Wachusett"
+  },
+  "42.15,-72.2": {
+    "ridgewoodHours": 3.56,
+    "ridgewoodMiles": 155.3,
+    "skiHours": 1.3,
+    "skiMiles": 38.0,
+    "skiName": "Wachusett"
+  },
+  "42.15,-72.26": {
+    "ridgewoodHours": 3.62,
+    "ridgewoodMiles": 160.6,
+    "skiHours": 1.33,
+    "skiMiles": 40.5,
     "skiName": "Wachusett"
   },
   "42.15,-72.85": {
@@ -615,6 +811,13 @@
     "skiMiles": 32.3,
     "skiName": "Wachusett"
   },
+  "42.16,-72.17": {
+    "ridgewoodHours": 3.58,
+    "ridgewoodMiles": 159.8,
+    "skiHours": 1.24,
+    "skiMiles": 36.3,
+    "skiName": "Wachusett"
+  },
   "42.16,-72.23": {
     "ridgewoodHours": 3.61,
     "ridgewoodMiles": 157.3,
@@ -635,6 +838,20 @@
     "skiHours": 1.02,
     "skiMiles": 36.2,
     "skiName": "Otis Ridge"
+  },
+  "42.16,-73.44": {
+    "ridgewoodHours": 2.89,
+    "ridgewoodMiles": 119.9,
+    "skiHours": 0.13,
+    "skiMiles": 4.8,
+    "skiName": "Catamount"
+  },
+  "42.16,-74.02": {
+    "ridgewoodHours": 2.58,
+    "ridgewoodMiles": 115.8,
+    "skiHours": 0.41,
+    "skiMiles": 13.4,
+    "skiName": "Hunter Mountain"
   },
   "42.17,-71.97": {
     "ridgewoodHours": 3.63,
@@ -661,6 +878,20 @@
     "skiHours": 0.19,
     "skiMiles": 3.6,
     "skiName": "Otis Ridge"
+  },
+  "42.18,-72.0": {
+    "ridgewoodHours": 3.63,
+    "ridgewoodMiles": 161.8,
+    "skiHours": 1.1,
+    "skiMiles": 28.6,
+    "skiName": "Wachusett"
+  },
+  "42.18,-72.29": {
+    "ridgewoodHours": 3.59,
+    "ridgewoodMiles": 158.6,
+    "skiHours": 1.33,
+    "skiMiles": 39.7,
+    "skiName": "Wachusett"
   },
   "42.18,-72.31": {
     "ridgewoodHours": 3.5,
@@ -690,6 +921,20 @@
     "skiMiles": 41.6,
     "skiName": "Wachusett"
   },
+  "42.19,-73.05": {
+    "ridgewoodHours": 3.2,
+    "ridgewoodMiles": 134.6,
+    "skiHours": 0.15,
+    "skiMiles": 4.5,
+    "skiName": "Otis Ridge"
+  },
+  "42.19,-73.1": {
+    "ridgewoodHours": 3.25,
+    "ridgewoodMiles": 135.3,
+    "skiHours": 0.17,
+    "skiMiles": 3.3,
+    "skiName": "Otis Ridge"
+  },
   "42.19,-73.19": {
     "ridgewoodHours": 3.4,
     "ridgewoodMiles": 135.7,
@@ -702,6 +947,13 @@
     "ridgewoodMiles": 161.4,
     "skiHours": 1.16,
     "skiMiles": 33.6,
+    "skiName": "Wachusett"
+  },
+  "42.2,-72.21": {
+    "ridgewoodHours": 3.68,
+    "ridgewoodMiles": 160.0,
+    "skiHours": 1.16,
+    "skiMiles": 33.8,
     "skiName": "Wachusett"
   },
   "42.2,-72.22": {
@@ -732,6 +984,13 @@
     "skiMiles": 2.6,
     "skiName": "Otis Ridge"
   },
+  "42.2,-73.12": {
+    "ridgewoodHours": 3.2,
+    "ridgewoodMiles": 135.4,
+    "skiHours": 0.12,
+    "skiMiles": 3.3,
+    "skiName": "Otis Ridge"
+  },
   "42.2,-73.14": {
     "ridgewoodHours": 3.44,
     "ridgewoodMiles": 140.0,
@@ -753,6 +1012,13 @@
     "skiMiles": 25.3,
     "skiName": "Wachusett"
   },
+  "42.21,-72.07": {
+    "ridgewoodHours": 3.59,
+    "ridgewoodMiles": 161.2,
+    "skiHours": 1.1,
+    "skiMiles": 29.8,
+    "skiName": "Wachusett"
+  },
   "42.21,-72.19": {
     "ridgewoodHours": 3.65,
     "ridgewoodMiles": 162.0,
@@ -766,6 +1032,20 @@
     "skiHours": 1.14,
     "skiMiles": 33.4,
     "skiName": "Wachusett"
+  },
+  "42.21,-72.36": {
+    "ridgewoodHours": 3.6,
+    "ridgewoodMiles": 154.6,
+    "skiHours": 1.38,
+    "skiMiles": 42.0,
+    "skiName": "Wachusett"
+  },
+  "42.21,-72.73": {
+    "ridgewoodHours": 3.46,
+    "ridgewoodMiles": 152.2,
+    "skiHours": 0.87,
+    "skiMiles": 28.2,
+    "skiName": "Otis Ridge"
   },
   "42.22,-72.07": {
     "skiHours": 1.04,
@@ -842,6 +1122,13 @@
     "skiMiles": 42.5,
     "skiName": "Berkshire East"
   },
+  "42.24,-72.47": {
+    "ridgewoodHours": 3.51,
+    "ridgewoodMiles": 151.7,
+    "skiHours": 1.26,
+    "skiMiles": 41.6,
+    "skiName": "Otis Ridge"
+  },
   "42.24,-72.89": {
     "ridgewoodHours": 3.61,
     "ridgewoodMiles": 149.3,
@@ -866,6 +1153,20 @@
     "ridgewoodMiles": 167.4,
     "skiHours": 1.17,
     "skiMiles": 35.1,
+    "skiName": "Wachusett"
+  },
+  "42.25,-72.3": {
+    "ridgewoodHours": 3.73,
+    "ridgewoodMiles": 162.4,
+    "skiHours": 1.22,
+    "skiMiles": 36.6,
+    "skiName": "Wachusett"
+  },
+  "42.25,-72.36": {
+    "ridgewoodHours": 3.72,
+    "ridgewoodMiles": 158.8,
+    "skiHours": 1.38,
+    "skiMiles": 40.8,
     "skiName": "Wachusett"
   },
   "42.25,-72.71": {
@@ -976,6 +1277,13 @@
     "skiMiles": 12.5,
     "skiName": "Otis Ridge"
   },
+  "42.26,-73.06": {
+    "ridgewoodHours": 3.43,
+    "ridgewoodMiles": 144.4,
+    "skiHours": 0.35,
+    "skiMiles": 12.4,
+    "skiName": "Otis Ridge"
+  },
   "42.26,-73.08": {
     "ridgewoodHours": 3.37,
     "ridgewoodMiles": 142.7,
@@ -1053,6 +1361,13 @@
     "skiMiles": 23.7,
     "skiName": "Wachusett"
   },
+  "42.28,-72.09": {
+    "ridgewoodHours": 3.78,
+    "ridgewoodMiles": 168.8,
+    "skiHours": 0.91,
+    "skiMiles": 25.2,
+    "skiName": "Wachusett"
+  },
   "42.28,-72.12": {
     "ridgewoodHours": 3.87,
     "ridgewoodMiles": 170.3,
@@ -1109,6 +1424,13 @@
     "skiMiles": 11.1,
     "skiName": "Butternut"
   },
+  "42.31,-72.2": {
+    "ridgewoodHours": 3.88,
+    "ridgewoodMiles": 168.7,
+    "skiHours": 0.95,
+    "skiMiles": 28.6,
+    "skiName": "Wachusett"
+  },
   "42.31,-72.25": {
     "ridgewoodHours": 3.9,
     "ridgewoodMiles": 167.7,
@@ -1122,6 +1444,13 @@
     "skiHours": 0.86,
     "skiMiles": 29.2,
     "skiName": "Berkshire East"
+  },
+  "42.31,-73.05": {
+    "ridgewoodHours": 3.58,
+    "ridgewoodMiles": 149.0,
+    "skiHours": 0.68,
+    "skiMiles": 16.3,
+    "skiName": "Bousquet"
   },
   "42.32,-72.15": {
     "ridgewoodHours": 3.95,
@@ -1144,6 +1473,13 @@
     "skiMiles": 24.5,
     "skiName": "Otis Ridge"
   },
+  "42.32,-72.97": {
+    "ridgewoodHours": 3.84,
+    "ridgewoodMiles": 154.9,
+    "skiHours": 0.9,
+    "skiMiles": 21.3,
+    "skiName": "Bousquet"
+  },
   "42.32,-73.07": {
     "skiHours": 0.61,
     "skiMiles": 14.3,
@@ -1153,6 +1489,13 @@
     "skiHours": 0.44,
     "skiMiles": 13.9,
     "skiName": "Otis Ridge"
+  },
+  "42.32,-73.24": {
+    "ridgewoodHours": 3.5,
+    "ridgewoodMiles": 137.8,
+    "skiHours": 0.31,
+    "skiMiles": 9.6,
+    "skiName": "Bousquet"
   },
   "42.34,-73.07": {
     "ridgewoodHours": 3.66,
@@ -1168,6 +1511,13 @@
     "skiMiles": 12.6,
     "skiName": "Blue Hills"
   },
+  "42.35,-72.61": {
+    "ridgewoodHours": 3.56,
+    "ridgewoodMiles": 158.8,
+    "skiHours": 0.83,
+    "skiMiles": 33.2,
+    "skiName": "Berkshire East"
+  },
   "42.35,-72.81": {
     "ridgewoodHours": 3.81,
     "ridgewoodMiles": 162.8,
@@ -1181,6 +1531,13 @@
     "skiHours": 0.99,
     "skiMiles": 29.1,
     "skiName": "Wachusett"
+  },
+  "42.37,-71.29": {
+    "ridgewoodHours": 4.34,
+    "ridgewoodMiles": 201.9,
+    "skiHours": 0.48,
+    "skiMiles": 19.4,
+    "skiName": "Blue Hills"
   },
   "42.37,-72.18": {
     "ridgewoodHours": 4.05,
@@ -1207,6 +1564,13 @@
     "skiHours": 0.27,
     "skiMiles": 9.8,
     "skiName": "Butternut"
+  },
+  "42.38,-72.11": {
+    "ridgewoodHours": 3.97,
+    "ridgewoodMiles": 175.4,
+    "skiHours": 0.75,
+    "skiMiles": 21.9,
+    "skiName": "Wachusett"
   },
   "42.38,-72.47": {
     "ridgewoodHours": 3.77,
@@ -1239,6 +1603,20 @@
     "ridgewoodMiles": 164.2,
     "skiHours": 0.65,
     "skiMiles": 26.7,
+    "skiName": "Berkshire East"
+  },
+  "42.4,-72.51": {
+    "ridgewoodHours": 3.78,
+    "ridgewoodMiles": 165.6,
+    "skiHours": 0.8,
+    "skiMiles": 29.2,
+    "skiName": "Berkshire East"
+  },
+  "42.4,-72.75": {
+    "ridgewoodHours": 3.74,
+    "ridgewoodMiles": 164.6,
+    "skiHours": 0.62,
+    "skiMiles": 21.8,
     "skiName": "Berkshire East"
   },
   "42.4,-72.92": {
@@ -1289,6 +1667,13 @@
     "skiMiles": 17.6,
     "skiName": "Wachusett"
   },
+  "42.43,-72.84": {
+    "ridgewoodHours": 3.99,
+    "ridgewoodMiles": 171.2,
+    "skiHours": 0.64,
+    "skiMiles": 20.7,
+    "skiName": "Berkshire East"
+  },
   "42.43,-72.92": {
     "ridgewoodHours": 4.03,
     "ridgewoodMiles": 172.9,
@@ -1303,6 +1688,27 @@
     "skiMiles": 18.0,
     "skiName": "Bousquet"
   },
+  "42.44,-71.69": {
+    "ridgewoodHours": 4.23,
+    "ridgewoodMiles": 192.7,
+    "skiHours": 0.64,
+    "skiMiles": 17.3,
+    "skiName": "Wachusett"
+  },
+  "42.44,-72.09": {
+    "ridgewoodHours": 4.12,
+    "ridgewoodMiles": 180.7,
+    "skiHours": 0.66,
+    "skiMiles": 19.3,
+    "skiName": "Wachusett"
+  },
+  "42.44,-72.1": {
+    "ridgewoodHours": 4.13,
+    "ridgewoodMiles": 180.8,
+    "skiHours": 0.67,
+    "skiMiles": 19.4,
+    "skiName": "Wachusett"
+  },
   "42.45,-72.41": {
     "skiHours": 0.94,
     "skiMiles": 33.2,
@@ -1315,12 +1721,26 @@
     "skiMiles": 19.5,
     "skiName": "Bousquet"
   },
+  "42.45,-73.32": {
+    "ridgewoodHours": 3.57,
+    "ridgewoodMiles": 146.0,
+    "skiHours": 0.21,
+    "skiMiles": 5.1,
+    "skiName": "Bousquet"
+  },
   "42.45,-73.33": {
     "ridgewoodHours": 3.59,
     "ridgewoodMiles": 146.4,
     "skiHours": 0.23,
     "skiMiles": 5.5,
     "skiName": "Bousquet"
+  },
+  "42.46,-72.09": {
+    "ridgewoodHours": 4.17,
+    "ridgewoodMiles": 181.9,
+    "skiHours": 0.71,
+    "skiMiles": 20.5,
+    "skiName": "Wachusett"
   },
   "42.46,-72.83": {
     "skiHours": 0.53,
@@ -1348,6 +1768,13 @@
     "skiMiles": 11.2,
     "skiName": "Bousquet"
   },
+  "42.46,-78.92": {
+    "ridgewoodHours": 8.17,
+    "ridgewoodMiles": 381.5,
+    "skiHours": 0.65,
+    "skiMiles": 22.3,
+    "skiName": "HoliMont"
+  },
   "42.47,-72.99": {
     "ridgewoodHours": 4.11,
     "ridgewoodMiles": 163.0,
@@ -1363,9 +1790,18 @@
     "skiName": "Bousquet"
   },
   "42.47,-73.79": {
+    "ridgewoodHours": 2.99,
+    "ridgewoodMiles": 137.8,
     "skiHours": 1.09,
     "skiMiles": 40.1,
     "skiName": "Jiminy Peak"
+  },
+  "42.47,-73.87": {
+    "ridgewoodHours": 3.08,
+    "ridgewoodMiles": 140.3,
+    "skiHours": 1.0,
+    "skiMiles": 36.7,
+    "skiName": "Windham Mountain"
   },
   "42.47,-78.82": {
     "ridgewoodHours": 8.02,
@@ -1459,11 +1895,25 @@
     "skiMiles": 5.7,
     "skiName": "Bousquet"
   },
+  "42.52,-72.08": {
+    "ridgewoodHours": 4.31,
+    "ridgewoodMiles": 186.7,
+    "skiHours": 0.6,
+    "skiMiles": 18.7,
+    "skiName": "Wachusett"
+  },
   "42.52,-74.06": {
     "ridgewoodHours": 3.29,
     "ridgewoodMiles": 143.2,
     "skiHours": 0.93,
     "skiMiles": 33.8,
+    "skiName": "Windham Mountain"
+  },
+  "42.52,-74.23": {
+    "ridgewoodHours": 3.4,
+    "ridgewoodMiles": 149.4,
+    "skiHours": 0.74,
+    "skiMiles": 22.8,
     "skiName": "Windham Mountain"
   },
   "42.52,-78.54": {
@@ -1525,6 +1975,20 @@
     "skiMiles": 21.0,
     "skiName": "Wachusett"
   },
+  "42.55,-72.32": {
+    "ridgewoodHours": 4.24,
+    "ridgewoodMiles": 176.6,
+    "skiHours": 0.87,
+    "skiMiles": 30.9,
+    "skiName": "Wachusett"
+  },
+  "42.55,-72.62": {
+    "ridgewoodHours": 3.95,
+    "ridgewoodMiles": 173.4,
+    "skiHours": 0.53,
+    "skiMiles": 16.1,
+    "skiName": "Berkshire East"
+  },
   "42.55,-72.76": {
     "ridgewoodHours": 4.23,
     "ridgewoodMiles": 177.3,
@@ -1558,6 +2022,13 @@
     "skiMiles": 16.3,
     "skiName": "Wachusett"
   },
+  "42.56,-72.2": {
+    "ridgewoodHours": 4.42,
+    "ridgewoodMiles": 187.2,
+    "skiHours": 0.7,
+    "skiMiles": 24.1,
+    "skiName": "Wachusett"
+  },
   "42.56,-72.82": {
     "ridgewoodHours": 4.16,
     "ridgewoodMiles": 178.4,
@@ -1586,6 +2057,20 @@
     "skiMiles": 24.8,
     "skiName": "Wachusett"
   },
+  "42.58,-73.09": {
+    "ridgewoodHours": 4.12,
+    "ridgewoodMiles": 162.0,
+    "skiHours": 0.61,
+    "skiMiles": 17.2,
+    "skiName": "Bousquet"
+  },
+  "42.58,-73.76": {
+    "ridgewoodHours": 3.12,
+    "ridgewoodMiles": 145.9,
+    "skiHours": 1.01,
+    "skiMiles": 34.1,
+    "skiName": "Jiminy Peak"
+  },
   "42.58,-73.88": {
     "ridgewoodHours": 3.32,
     "ridgewoodMiles": 147.1,
@@ -1598,6 +2083,20 @@
     "ridgewoodMiles": 199.0,
     "skiHours": 0.66,
     "skiMiles": 17.6,
+    "skiName": "Wachusett"
+  },
+  "42.59,-71.81": {
+    "ridgewoodHours": 4.42,
+    "ridgewoodMiles": 200.2,
+    "skiHours": 0.5,
+    "skiMiles": 11.5,
+    "skiName": "Wachusett"
+  },
+  "42.59,-72.31": {
+    "ridgewoodHours": 4.32,
+    "ridgewoodMiles": 189.4,
+    "skiHours": 0.88,
+    "skiMiles": 31.2,
     "skiName": "Wachusett"
   },
   "42.59,-72.32": {
@@ -1745,6 +2244,13 @@
     "skiMiles": 21.5,
     "skiName": "HoliMont"
   },
+  "42.63,-71.66": {
+    "ridgewoodHours": 4.6,
+    "ridgewoodMiles": 204.0,
+    "skiHours": 0.86,
+    "skiMiles": 22.3,
+    "skiName": "Wachusett"
+  },
   "42.63,-72.07": {
     "ridgewoodHours": 4.6,
     "ridgewoodMiles": 195.3,
@@ -1780,6 +2286,13 @@
     "skiMiles": 21.7,
     "skiName": "Wachusett"
   },
+  "42.64,-71.79": {
+    "ridgewoodHours": 4.5,
+    "ridgewoodMiles": 203.3,
+    "skiHours": 0.61,
+    "skiMiles": 15.5,
+    "skiName": "Wachusett"
+  },
   "42.64,-71.92": {
     "skiHours": 0.54,
     "skiMiles": 14.0,
@@ -1799,11 +2312,25 @@
     "skiMiles": 11.4,
     "skiName": "Berkshire East"
   },
+  "42.64,-73.12": {
+    "ridgewoodHours": 4.08,
+    "ridgewoodMiles": 162.6,
+    "skiHours": 0.57,
+    "skiMiles": 17.8,
+    "skiName": "Bousquet"
+  },
   "42.64,-78.75": {
     "ridgewoodHours": 8.03,
     "ridgewoodMiles": 375.9,
     "skiHours": 0.54,
     "skiMiles": 19.3,
+    "skiName": "HoliMont"
+  },
+  "42.64,-79.03": {
+    "ridgewoodHours": 8.38,
+    "ridgewoodMiles": 388.6,
+    "skiHours": 0.94,
+    "skiMiles": 33.5,
     "skiName": "HoliMont"
   },
   "42.65,-71.82": {
@@ -1842,6 +2369,13 @@
     "ridgewoodMiles": 182.7,
     "skiHours": 0.5,
     "skiMiles": 20.3,
+    "skiName": "Berkshire East"
+  },
+  "42.67,-72.79": {
+    "ridgewoodHours": 4.38,
+    "ridgewoodMiles": 193.6,
+    "skiHours": 0.31,
+    "skiMiles": 6.7,
     "skiName": "Berkshire East"
   },
   "42.67,-73.01": {
@@ -1903,6 +2437,13 @@
     "skiMiles": 24.4,
     "skiName": "Berkshire East"
   },
+  "42.68,-73.23": {
+    "ridgewoodHours": 3.89,
+    "ridgewoodMiles": 159.9,
+    "skiHours": 0.43,
+    "skiMiles": 12.6,
+    "skiName": "Jiminy Peak"
+  },
   "42.69,-71.86": {
     "ridgewoodHours": 4.67,
     "ridgewoodMiles": 208.8,
@@ -1928,6 +2469,27 @@
     "skiHours": 0.65,
     "skiMiles": 14.8,
     "skiName": "Berkshire East"
+  },
+  "42.69,-73.02": {
+    "ridgewoodHours": 4.4,
+    "ridgewoodMiles": 172.2,
+    "skiHours": 0.68,
+    "skiMiles": 21.2,
+    "skiName": "Berkshire East"
+  },
+  "42.69,-73.05": {
+    "ridgewoodHours": 4.37,
+    "ridgewoodMiles": 170.8,
+    "skiHours": 0.74,
+    "skiMiles": 23.0,
+    "skiName": "Berkshire East"
+  },
+  "42.69,-73.13": {
+    "ridgewoodHours": 4.22,
+    "ridgewoodMiles": 167.9,
+    "skiHours": 0.79,
+    "skiMiles": 22.7,
+    "skiName": "Jiminy Peak"
   },
   "42.69,-74.0": {
     "ridgewoodHours": 3.67,
@@ -1963,6 +2525,13 @@
     "skiHours": 0.89,
     "skiMiles": 27.1,
     "skiName": "Wachusett"
+  },
+  "42.7,-72.63": {
+    "ridgewoodHours": 4.17,
+    "ridgewoodMiles": 184.4,
+    "skiHours": 0.39,
+    "skiMiles": 10.2,
+    "skiName": "Berkshire East"
   },
   "42.7,-73.05": {
     "ridgewoodHours": 4.39,
@@ -2042,6 +2611,13 @@
     "skiMiles": 49.1,
     "skiName": "Jiminy Peak"
   },
+  "42.73,-72.39": {
+    "ridgewoodHours": 4.4,
+    "ridgewoodMiles": 193.6,
+    "skiHours": 0.94,
+    "skiMiles": 31.2,
+    "skiName": "Berkshire East"
+  },
   "42.73,-72.83": {
     "ridgewoodHours": 4.54,
     "ridgewoodMiles": 193.6,
@@ -2056,12 +2632,26 @@
     "skiMiles": 24.7,
     "skiName": "Berkshire East"
   },
+  "42.73,-73.84": {
+    "ridgewoodHours": 3.4,
+    "ridgewoodMiles": 158.7,
+    "skiHours": 1.06,
+    "skiMiles": 36.8,
+    "skiName": "Jiminy Peak"
+  },
   "42.74,-72.76": {
     "ridgewoodHours": 4.38,
     "ridgewoodMiles": 192.2,
     "skiHours": 0.39,
     "skiMiles": 11.5,
     "skiName": "Berkshire East"
+  },
+  "42.74,-78.62": {
+    "ridgewoodHours": 7.77,
+    "ridgewoodMiles": 364.6,
+    "skiHours": 0.79,
+    "skiMiles": 27.2,
+    "skiName": "HoliMont"
   },
   "42.75,-72.99": {
     "ridgewoodHours": 4.63,
@@ -2087,6 +2677,13 @@
     "ridgewoodMiles": 197.8,
     "skiHours": 0.94,
     "skiMiles": 35.4,
+    "skiName": "Berkshire East"
+  },
+  "42.76,-72.37": {
+    "ridgewoodHours": 4.37,
+    "ridgewoodMiles": 196.4,
+    "skiHours": 0.91,
+    "skiMiles": 34.1,
     "skiName": "Berkshire East"
   },
   "42.76,-72.52": {
@@ -2124,6 +2721,13 @@
     "skiMiles": 33.7,
     "skiName": "Berkshire East"
   },
+  "42.77,-73.77": {
+    "ridgewoodHours": 3.52,
+    "ridgewoodMiles": 164.2,
+    "skiHours": 1.01,
+    "skiMiles": 33.7,
+    "skiName": "Jiminy Peak"
+  },
   "42.78,-72.14": {
     "ridgewoodHours": 4.79,
     "ridgewoodMiles": 209.4,
@@ -2149,6 +2753,20 @@
     "skiHours": 0.77,
     "skiMiles": 21.2,
     "skiName": "Jiminy Peak"
+  },
+  "42.78,-73.74": {
+    "ridgewoodHours": 3.51,
+    "ridgewoodMiles": 164.6,
+    "skiHours": 1.01,
+    "skiMiles": 34.0,
+    "skiName": "Jiminy Peak"
+  },
+  "42.79,-71.17": {
+    "ridgewoodHours": 5.0,
+    "ridgewoodMiles": 231.9,
+    "skiHours": 0.29,
+    "skiMiles": 8.7,
+    "skiName": "Ski Bradford"
   },
   "42.79,-72.36": {
     "ridgewoodHours": 4.43,
@@ -2185,6 +2803,20 @@
     "skiMiles": 31.4,
     "skiName": "HoliMont"
   },
+  "42.8,-72.17": {
+    "ridgewoodHours": 4.89,
+    "ridgewoodMiles": 211.3,
+    "skiHours": 0.88,
+    "skiMiles": 32.6,
+    "skiName": "Wachusett"
+  },
+  "42.8,-72.4": {
+    "ridgewoodHours": 4.46,
+    "ridgewoodMiles": 197.5,
+    "skiHours": 1.0,
+    "skiMiles": 35.1,
+    "skiName": "Berkshire East"
+  },
   "42.8,-72.76": {
     "skiHours": 0.46,
     "skiMiles": 13.7,
@@ -2206,6 +2838,13 @@
     "skiHours": 1.03,
     "skiMiles": 32.1,
     "skiName": "Wachusett"
+  },
+  "42.81,-72.59": {
+    "ridgewoodHours": 4.28,
+    "ridgewoodMiles": 196.5,
+    "skiHours": 0.76,
+    "skiMiles": 19.0,
+    "skiName": "Berkshire East"
   },
   "42.81,-73.01": {
     "ridgewoodHours": 4.51,
@@ -2230,6 +2869,13 @@
     "skiHours": 0.58,
     "skiMiles": 17.4,
     "skiName": "Berkshire East"
+  },
+  "42.82,-73.02": {
+    "ridgewoodHours": 4.62,
+    "ridgewoodMiles": 180.4,
+    "skiHours": 1.22,
+    "skiMiles": 20.5,
+    "skiName": "Mount Snow"
   },
   "42.82,-78.63": {
     "skiHours": 0.9,
@@ -2271,6 +2917,13 @@
     "skiMiles": 38.3,
     "skiName": "Berkshire East"
   },
+  "42.84,-72.59": {
+    "ridgewoodHours": 4.31,
+    "ridgewoodMiles": 196.9,
+    "skiHours": 0.85,
+    "skiMiles": 34.5,
+    "skiName": "Berkshire East"
+  },
   "42.85,-72.73": {
     "ridgewoodHours": 4.56,
     "ridgewoodMiles": 206.1,
@@ -2285,6 +2938,13 @@
     "skiMiles": 23.7,
     "skiName": "Mount Snow"
   },
+  "42.86,-72.8": {
+    "ridgewoodHours": 4.65,
+    "ridgewoodMiles": 210.3,
+    "skiHours": 1.19,
+    "skiMiles": 20.5,
+    "skiName": "Mount Snow"
+  },
   "42.86,-72.81": {
     "ridgewoodHours": 4.67,
     "ridgewoodMiles": 204.3,
@@ -2292,11 +2952,32 @@
     "skiMiles": 20.2,
     "skiName": "Mount Snow"
   },
+  "42.86,-78.51": {
+    "ridgewoodHours": 7.65,
+    "ridgewoodMiles": 361.7,
+    "skiHours": 1.13,
+    "skiMiles": 45.0,
+    "skiName": "HoliMont"
+  },
+  "42.86,-78.8": {
+    "ridgewoodHours": 7.99,
+    "ridgewoodMiles": 376.7,
+    "skiHours": 0.83,
+    "skiMiles": 34.5,
+    "skiName": "HoliMont"
+  },
   "42.87,-70.83": {
     "ridgewoodHours": 5.26,
     "ridgewoodMiles": 246.0,
     "skiHours": 0.49,
     "skiMiles": 16.7,
+    "skiName": "Ski Bradford"
+  },
+  "42.87,-71.31": {
+    "ridgewoodHours": 5.13,
+    "ridgewoodMiles": 236.3,
+    "skiHours": 0.69,
+    "skiMiles": 25.2,
     "skiName": "Ski Bradford"
   },
   "42.87,-72.33": {
@@ -2347,6 +3028,13 @@
     "skiMiles": 26.6,
     "skiName": "Mount Snow"
   },
+  "42.89,-73.77": {
+    "ridgewoodHours": 3.66,
+    "ridgewoodMiles": 171.5,
+    "skiHours": 1.19,
+    "skiMiles": 42.0,
+    "skiName": "Jiminy Peak"
+  },
   "42.89,-73.87": {
     "skiHours": 1.32,
     "skiMiles": 46.4,
@@ -2357,6 +3045,13 @@
     "ridgewoodMiles": 370.0,
     "skiHours": 1.07,
     "skiMiles": 42.9,
+    "skiName": "HoliMont"
+  },
+  "42.89,-78.61": {
+    "ridgewoodHours": 7.78,
+    "ridgewoodMiles": 370.6,
+    "skiHours": 1.05,
+    "skiMiles": 42.3,
     "skiName": "HoliMont"
   },
   "42.9,-72.25": {
@@ -2395,6 +3090,13 @@
     "skiMiles": 38.3,
     "skiName": "Mount Sunapee"
   },
+  "42.92,-73.19": {
+    "ridgewoodHours": 4.31,
+    "ridgewoodMiles": 192.1,
+    "skiHours": 0.78,
+    "skiMiles": 29.7,
+    "skiName": "Bromley"
+  },
   "42.93,-72.85": {
     "skiHours": 0.69,
     "skiMiles": 17.7,
@@ -2410,11 +3112,25 @@
     "skiMiles": 29.6,
     "skiName": "Mount Snow"
   },
+  "42.94,-72.75": {
+    "ridgewoodHours": 4.76,
+    "ridgewoodMiles": 211.5,
+    "skiHours": 0.91,
+    "skiMiles": 23.7,
+    "skiName": "Stratton"
+  },
   "42.94,-72.8": {
     "ridgewoodHours": 4.85,
     "ridgewoodMiles": 209.4,
     "skiHours": 0.79,
     "skiMiles": 20.5,
+    "skiName": "Stratton"
+  },
+  "42.94,-72.81": {
+    "ridgewoodHours": 4.82,
+    "ridgewoodMiles": 209.0,
+    "skiHours": 0.77,
+    "skiMiles": 20.1,
     "skiName": "Stratton"
   },
   "42.95,-72.28": {
@@ -2431,6 +3147,13 @@
     "skiMiles": 22.6,
     "skiName": "Stratton"
   },
+  "42.95,-72.85": {
+    "ridgewoodHours": 4.94,
+    "ridgewoodMiles": 211.1,
+    "skiHours": 0.82,
+    "skiMiles": 19.7,
+    "skiName": "Stratton"
+  },
   "42.95,-78.47": {
     "skiHours": 1.26,
     "skiMiles": 52.8,
@@ -2442,6 +3165,13 @@
     "skiHours": 1.14,
     "skiMiles": 46.4,
     "skiName": "Berkshire East"
+  },
+  "42.96,-72.83": {
+    "ridgewoodHours": 4.98,
+    "ridgewoodMiles": 211.8,
+    "skiHours": 0.86,
+    "skiMiles": 20.3,
+    "skiName": "Stratton"
   },
   "42.96,-72.84": {
     "ridgewoodHours": 4.88,
@@ -2493,6 +3223,27 @@
     "skiMiles": 50.7,
     "skiName": "Jiminy Peak"
   },
+  "42.97,-74.07": {
+    "ridgewoodHours": 3.9,
+    "ridgewoodMiles": 182.7,
+    "skiHours": 1.6,
+    "skiMiles": 61.7,
+    "skiName": "Jiminy Peak"
+  },
+  "42.97,-77.63": {
+    "ridgewoodHours": 7.01,
+    "ridgewoodMiles": 319.6,
+    "skiHours": 0.97,
+    "skiMiles": 30.7,
+    "skiName": "Bristol Mountain"
+  },
+  "42.98,-71.78": {
+    "ridgewoodHours": 5.43,
+    "ridgewoodMiles": 231.0,
+    "skiHours": 0.83,
+    "skiMiles": 22.6,
+    "skiName": "Pats Peak"
+  },
   "42.99,-71.95": {
     "ridgewoodHours": 5.33,
     "ridgewoodMiles": 233.0,
@@ -2523,6 +3274,20 @@
     "skiHours": 1.42,
     "skiMiles": 51.9,
     "skiName": "Jiminy Peak"
+  },
+  "42.99,-77.7": {
+    "ridgewoodHours": 7.02,
+    "ridgewoodMiles": 325.5,
+    "skiHours": 1.13,
+    "skiMiles": 36.7,
+    "skiName": "Bristol Mountain"
+  },
+  "42.99,-77.71": {
+    "ridgewoodHours": 7.03,
+    "ridgewoodMiles": 325.6,
+    "skiHours": 1.13,
+    "skiMiles": 36.7,
+    "skiName": "Bristol Mountain"
   },
   "43.0,-71.35": {
     "ridgewoodHours": 5.36,
@@ -2557,6 +3322,13 @@
     "skiMiles": 23.9,
     "skiName": "Pats Peak"
   },
+  "43.01,-73.79": {
+    "ridgewoodHours": 3.84,
+    "ridgewoodMiles": 180.3,
+    "skiHours": 1.37,
+    "skiMiles": 50.8,
+    "skiName": "Jiminy Peak"
+  },
   "43.01,-74.09": {
     "ridgewoodHours": 3.99,
     "ridgewoodMiles": 185.9,
@@ -2583,12 +3355,26 @@
     "skiMiles": 51.8,
     "skiName": "Bromley"
   },
+  "43.03,-72.87": {
+    "ridgewoodHours": 5.0,
+    "ridgewoodMiles": 217.4,
+    "skiHours": 0.44,
+    "skiMiles": 10.4,
+    "skiName": "Stratton"
+  },
   "43.03,-73.91": {
     "ridgewoodHours": 4.0,
     "ridgewoodMiles": 185.6,
     "skiHours": 1.53,
     "skiMiles": 56.1,
     "skiName": "Jiminy Peak"
+  },
+  "43.03,-78.59": {
+    "ridgewoodHours": 7.92,
+    "ridgewoodMiles": 371.2,
+    "skiHours": 1.27,
+    "skiMiles": 53.8,
+    "skiName": "HoliMont"
   },
   "43.04,-70.88": {
     "ridgewoodHours": 5.57,
@@ -2618,6 +3404,13 @@
     "skiMiles": 48.0,
     "skiName": "HoliMont"
   },
+  "43.04,-78.9": {
+    "ridgewoodHours": 8.4,
+    "ridgewoodMiles": 393.5,
+    "skiHours": 1.29,
+    "skiMiles": 54.7,
+    "skiName": "HoliMont"
+  },
   "43.05,-72.78": {
     "skiHours": 0.51,
     "skiMiles": 17.5,
@@ -2642,6 +3435,20 @@
     "skiMiles": 55.5,
     "skiName": "HoliMont"
   },
+  "43.05,-78.83": {
+    "ridgewoodHours": 8.17,
+    "ridgewoodMiles": 384.4,
+    "skiHours": 1.13,
+    "skiMiles": 48.2,
+    "skiName": "HoliMont"
+  },
+  "43.06,-71.86": {
+    "ridgewoodHours": 5.63,
+    "ridgewoodMiles": 242.7,
+    "skiHours": 0.57,
+    "skiMiles": 15.3,
+    "skiName": "Pats Peak"
+  },
   "43.06,-72.22": {
     "ridgewoodHours": 4.97,
     "ridgewoodMiles": 219.8,
@@ -2655,6 +3462,13 @@
     "skiHours": 1.47,
     "skiMiles": 58.4,
     "skiName": "HoliMont"
+  },
+  "43.07,-71.87": {
+    "ridgewoodHours": 5.58,
+    "ridgewoodMiles": 241.0,
+    "skiHours": 0.52,
+    "skiMiles": 13.6,
+    "skiName": "Pats Peak"
   },
   "43.07,-71.92": {
     "skiHours": 0.43,
@@ -2672,6 +3486,13 @@
     "skiHours": 1.28,
     "skiMiles": 41.6,
     "skiName": "Magic Mountain"
+  },
+  "43.07,-72.75": {
+    "ridgewoodHours": 4.96,
+    "ridgewoodMiles": 220.1,
+    "skiHours": 0.47,
+    "skiMiles": 15.3,
+    "skiName": "Stratton"
   },
   "43.07,-73.14": {
     "skiHours": 0.55,
@@ -2699,12 +3520,26 @@
     "skiMiles": 52.0,
     "skiName": "HoliMont"
   },
+  "43.07,-78.73": {
+    "ridgewoodHours": 8.17,
+    "ridgewoodMiles": 382.8,
+    "skiHours": 1.18,
+    "skiMiles": 51.8,
+    "skiName": "HoliMont"
+  },
   "43.08,-71.98": {
     "ridgewoodHours": 5.23,
     "ridgewoodMiles": 231.3,
     "skiHours": 0.47,
     "skiMiles": 15.6,
     "skiName": "Pats Peak"
+  },
+  "43.08,-72.74": {
+    "ridgewoodHours": 4.94,
+    "ridgewoodMiles": 219.3,
+    "skiHours": 0.43,
+    "skiMiles": 13.9,
+    "skiName": "Stratton"
   },
   "43.08,-78.62": {
     "ridgewoodHours": 8.03,
@@ -2735,6 +3570,13 @@
     "skiMiles": 36.9,
     "skiName": "Magic Mountain"
   },
+  "43.09,-73.59": {
+    "ridgewoodHours": 4.18,
+    "ridgewoodMiles": 189.2,
+    "skiHours": 1.42,
+    "skiMiles": 47.4,
+    "skiName": "Bromley"
+  },
   "43.09,-73.9": {
     "ridgewoodHours": 4.12,
     "ridgewoodMiles": 191.3,
@@ -2755,6 +3597,20 @@
     "skiHours": 1.21,
     "skiMiles": 49.1,
     "skiName": "Bristol Mountain"
+  },
+  "43.09,-78.64": {
+    "ridgewoodHours": 8.06,
+    "ridgewoodMiles": 376.7,
+    "skiHours": 1.33,
+    "skiMiles": 57.6,
+    "skiName": "HoliMont"
+  },
+  "43.09,-78.84": {
+    "ridgewoodHours": 8.26,
+    "ridgewoodMiles": 387.8,
+    "skiHours": 1.22,
+    "skiMiles": 51.5,
+    "skiName": "HoliMont"
   },
   "43.09,-78.92": {
     "ridgewoodHours": 8.39,
@@ -2783,6 +3639,8 @@
     "skiName": "Gore Mountain"
   },
   "43.1,-73.95": {
+    "ridgewoodHours": 4.28,
+    "ridgewoodMiles": 194.9,
     "skiHours": 1.58,
     "skiMiles": 61.1,
     "skiName": "Gore Mountain"
@@ -2805,6 +3663,13 @@
     "skiHours": 0.85,
     "skiMiles": 27.6,
     "skiName": "Pats Peak"
+  },
+  "43.11,-77.84": {
+    "ridgewoodHours": 7.3,
+    "ridgewoodMiles": 334.5,
+    "skiHours": 1.47,
+    "skiMiles": 57.2,
+    "skiName": "Bristol Mountain"
   },
   "43.12,-72.19": {
     "ridgewoodHours": 5.08,
@@ -2866,6 +3731,8 @@
     "skiName": "Mount Sunapee"
   },
   "43.13,-73.87": {
+    "ridgewoodHours": 4.18,
+    "ridgewoodMiles": 192.4,
     "skiHours": 1.4,
     "skiMiles": 56.4,
     "skiName": "Gore Mountain"
@@ -2875,6 +3742,13 @@
     "ridgewoodMiles": 318.1,
     "skiHours": 1.04,
     "skiMiles": 40.9,
+    "skiName": "Bristol Mountain"
+  },
+  "43.13,-77.69": {
+    "ridgewoodHours": 7.06,
+    "ridgewoodMiles": 324.8,
+    "skiHours": 1.23,
+    "skiMiles": 47.5,
     "skiName": "Bristol Mountain"
   },
   "43.13,-78.6": {
@@ -2902,6 +3776,13 @@
     "skiHours": 0.86,
     "skiMiles": 23.8,
     "skiName": "Magic Mountain"
+  },
+  "43.14,-72.82": {
+    "ridgewoodHours": 5.09,
+    "ridgewoodMiles": 225.6,
+    "skiHours": 0.21,
+    "skiMiles": 6.6,
+    "skiName": "Stratton"
   },
   "43.14,-72.84": {
     "ridgewoodHours": 5.09,
@@ -2932,12 +3813,40 @@
     "skiMiles": 28.2,
     "skiName": "Mount Sunapee"
   },
+  "43.15,-72.87": {
+    "ridgewoodHours": 5.06,
+    "ridgewoodMiles": 223.9,
+    "skiHours": 0.19,
+    "skiMiles": 4.8,
+    "skiName": "Stratton"
+  },
+  "43.15,-72.9": {
+    "ridgewoodHours": 4.99,
+    "ridgewoodMiles": 222.2,
+    "skiHours": 0.17,
+    "skiMiles": 5.1,
+    "skiName": "Stratton"
+  },
   "43.15,-74.11": {
     "ridgewoodHours": 4.3,
     "ridgewoodMiles": 198.5,
     "skiHours": 1.47,
     "skiMiles": 54.4,
     "skiName": "Gore Mountain"
+  },
+  "43.15,-78.63": {
+    "ridgewoodHours": 8.16,
+    "ridgewoodMiles": 379.2,
+    "skiHours": 1.43,
+    "skiMiles": 62.5,
+    "skiName": "HoliMont"
+  },
+  "43.15,-78.66": {
+    "ridgewoodHours": 8.23,
+    "ridgewoodMiles": 380.1,
+    "skiHours": 1.38,
+    "skiMiles": 59.7,
+    "skiName": "HoliMont"
   },
   "43.15,-78.76": {
     "ridgewoodHours": 8.27,
@@ -2952,6 +3861,13 @@
     "skiHours": 1.37,
     "skiMiles": 60.3,
     "skiName": "HoliMont"
+  },
+  "43.17,-72.15": {
+    "ridgewoodHours": 5.71,
+    "ridgewoodMiles": 242.1,
+    "skiHours": 0.82,
+    "skiMiles": 20.8,
+    "skiName": "Mount Sunapee"
   },
   "43.17,-73.03": {
     "skiHours": 0.2,
@@ -2974,6 +3890,13 @@
     "skiHours": 1.45,
     "skiMiles": 52.0,
     "skiName": "Gore Mountain"
+  },
+  "43.17,-77.5": {
+    "ridgewoodHours": 6.99,
+    "ridgewoodMiles": 322.9,
+    "skiHours": 1.16,
+    "skiMiles": 45.7,
+    "skiName": "Bristol Mountain"
   },
   "43.17,-77.86": {
     "ridgewoodHours": 7.25,
@@ -3006,6 +3929,13 @@
     "skiMiles": 53.4,
     "skiName": "Gore Mountain"
   },
+  "43.18,-78.69": {
+    "ridgewoodHours": 8.26,
+    "ridgewoodMiles": 389.5,
+    "skiHours": 1.34,
+    "skiMiles": 59.8,
+    "skiName": "HoliMont"
+  },
   "43.18,-78.89": {
     "ridgewoodHours": 8.48,
     "ridgewoodMiles": 396.1,
@@ -3019,6 +3949,20 @@
     "skiHours": 1.53,
     "skiMiles": 67.3,
     "skiName": "HoliMont"
+  },
+  "43.19,-72.02": {
+    "ridgewoodHours": 5.55,
+    "ridgewoodMiles": 241.5,
+    "skiHours": 0.61,
+    "skiMiles": 16.2,
+    "skiName": "Mount Sunapee"
+  },
+  "43.19,-72.96": {
+    "ridgewoodHours": 4.92,
+    "ridgewoodMiles": 217.7,
+    "skiHours": 0.16,
+    "skiMiles": 3.3,
+    "skiName": "Bromley"
   },
   "43.19,-73.71": {
     "ridgewoodHours": 4.14,
@@ -3041,6 +3985,13 @@
     "skiMiles": 3.2,
     "skiName": "Bromley"
   },
+  "43.2,-77.82": {
+    "ridgewoodHours": 7.28,
+    "ridgewoodMiles": 335.6,
+    "skiHours": 1.45,
+    "skiMiles": 58.4,
+    "skiName": "Bristol Mountain"
+  },
   "43.2,-77.9": {
     "ridgewoodHours": 7.26,
     "ridgewoodMiles": 337.4,
@@ -3051,6 +4002,20 @@
   "43.2,-78.86": {
     "skiHours": 1.53,
     "skiMiles": 59.8,
+    "skiName": "HoliMont"
+  },
+  "43.2,-78.91": {
+    "ridgewoodHours": 8.58,
+    "ridgewoodMiles": 399.1,
+    "skiHours": 1.53,
+    "skiMiles": 62.8,
+    "skiName": "HoliMont"
+  },
+  "43.2,-78.97": {
+    "ridgewoodHours": 8.66,
+    "ridgewoodMiles": 406.6,
+    "skiHours": 1.56,
+    "skiMiles": 67.9,
     "skiName": "HoliMont"
   },
   "43.2,-79.0": {
@@ -3174,6 +4139,13 @@
     "skiMiles": 45.5,
     "skiName": "Gore Mountain"
   },
+  "43.23,-77.37": {
+    "ridgewoodHours": 6.96,
+    "ridgewoodMiles": 326.4,
+    "skiHours": 1.29,
+    "skiMiles": 46.3,
+    "skiName": "Bristol Mountain"
+  },
   "43.24,-71.15": {
     "skiHours": 1.07,
     "skiMiles": 35.0,
@@ -3185,6 +4157,13 @@
     "skiHours": 0.4,
     "skiMiles": 12.6,
     "skiName": "Bromley"
+  },
+  "43.24,-73.82": {
+    "ridgewoodHours": 4.34,
+    "ridgewoodMiles": 200.1,
+    "skiHours": 1.22,
+    "skiMiles": 45.4,
+    "skiName": "Gore Mountain"
   },
   "43.24,-77.51": {
     "skiHours": 1.23,
@@ -3212,6 +4191,13 @@
     "skiMiles": 63.2,
     "skiName": "HoliMont"
   },
+  "43.25,-70.63": {
+    "ridgewoodHours": 5.88,
+    "ridgewoodMiles": 273.9,
+    "skiHours": 1.11,
+    "skiMiles": 44.7,
+    "skiName": "Ski Bradford"
+  },
   "43.25,-72.25": {
     "ridgewoodHours": 5.35,
     "ridgewoodMiles": 236.8,
@@ -3230,6 +4216,13 @@
     "skiHours": 0.47,
     "skiMiles": 15.4,
     "skiName": "Okemo"
+  },
+  "43.25,-73.67": {
+    "ridgewoodHours": 4.18,
+    "ridgewoodMiles": 198.8,
+    "skiHours": 1.05,
+    "skiMiles": 42.9,
+    "skiName": "Gore Mountain"
   },
   "43.25,-73.84": {
     "skiHours": 1.15,
@@ -3289,10 +4282,24 @@
     "skiMiles": 17.3,
     "skiName": "Mount Sunapee"
   },
+  "43.27,-72.47": {
+    "ridgewoodHours": 4.95,
+    "ridgewoodMiles": 231.2,
+    "skiHours": 0.67,
+    "skiMiles": 19.9,
+    "skiName": "Okemo"
+  },
   "43.27,-72.6": {
     "skiHours": 0.43,
     "skiMiles": 13.6,
     "skiName": "Okemo"
+  },
+  "43.27,-73.69": {
+    "ridgewoodHours": 4.31,
+    "ridgewoodMiles": 200.5,
+    "skiHours": 1.18,
+    "skiMiles": 44.7,
+    "skiName": "Gore Mountain"
   },
   "43.27,-77.38": {
     "skiHours": 1.35,
@@ -3353,6 +4360,20 @@
     "skiMiles": 27.7,
     "skiName": "Gunstock"
   },
+  "43.29,-71.68": {
+    "ridgewoodHours": 5.99,
+    "ridgewoodMiles": 266.7,
+    "skiHours": 0.55,
+    "skiMiles": 11.9,
+    "skiName": "Pats Peak"
+  },
+  "43.29,-72.24": {
+    "ridgewoodHours": 5.45,
+    "ridgewoodMiles": 246.8,
+    "skiHours": 0.74,
+    "skiMiles": 16.5,
+    "skiName": "Mount Sunapee"
+  },
   "43.29,-73.87": {
     "ridgewoodHours": 4.52,
     "ridgewoodMiles": 203.2,
@@ -3366,6 +4387,20 @@
     "skiHours": 1.47,
     "skiMiles": 54.1,
     "skiName": "Gore Mountain"
+  },
+  "43.29,-74.07": {
+    "ridgewoodHours": 4.71,
+    "ridgewoodMiles": 211.0,
+    "skiHours": 1.56,
+    "skiMiles": 55.5,
+    "skiName": "Gore Mountain"
+  },
+  "43.29,-77.74": {
+    "ridgewoodHours": 7.37,
+    "ridgewoodMiles": 338.6,
+    "skiHours": 1.54,
+    "skiMiles": 61.3,
+    "skiName": "Bristol Mountain"
   },
   "43.29,-78.85": {
     "ridgewoodHours": 8.7,
@@ -3400,9 +4435,32 @@
     "skiMiles": 55.0,
     "skiName": "Gore Mountain"
   },
+  "43.3,-77.91": {
+    "ridgewoodHours": 7.58,
+    "ridgewoodMiles": 346.7,
+    "skiHours": 1.75,
+    "skiMiles": 69.4,
+    "skiName": "Bristol Mountain"
+  },
   "43.31,-71.93": {
+    "ridgewoodHours": 5.88,
+    "ridgewoodMiles": 264.5,
     "skiHours": 0.43,
     "skiMiles": 12.4,
+    "skiName": "Mount Sunapee"
+  },
+  "43.31,-72.38": {
+    "ridgewoodHours": 4.99,
+    "ridgewoodMiles": 233.7,
+    "skiHours": 0.64,
+    "skiMiles": 21.3,
+    "skiName": "Mount Sunapee"
+  },
+  "43.31,-72.39": {
+    "ridgewoodHours": 4.98,
+    "ridgewoodMiles": 233.6,
+    "skiHours": 0.63,
+    "skiMiles": 21.2,
     "skiName": "Mount Sunapee"
   },
   "43.31,-74.02": {
@@ -3457,6 +4515,20 @@
     "skiMiles": 23.0,
     "skiName": "Ragged Mountain"
   },
+  "43.33,-72.17": {
+    "ridgewoodHours": 5.4,
+    "ridgewoodMiles": 250.2,
+    "skiHours": 0.39,
+    "skiMiles": 9.2,
+    "skiName": "Mount Sunapee"
+  },
+  "43.33,-72.18": {
+    "ridgewoodHours": 5.37,
+    "ridgewoodMiles": 249.7,
+    "skiHours": 0.35,
+    "skiMiles": 8.6,
+    "skiName": "Mount Sunapee"
+  },
   "43.33,-72.19": {
     "ridgewoodHours": 5.39,
     "ridgewoodMiles": 249.9,
@@ -3477,6 +4549,13 @@
     "skiHours": 1.73,
     "skiMiles": 71.4,
     "skiName": "HoliMont"
+  },
+  "43.34,-71.04": {
+    "ridgewoodHours": 6.01,
+    "ridgewoodMiles": 281.5,
+    "skiHours": 0.83,
+    "skiMiles": 27.0,
+    "skiName": "Gunstock"
   },
   "43.34,-71.32": {
     "ridgewoodHours": 5.99,
@@ -3542,6 +4621,13 @@
     "skiMiles": 9.8,
     "skiName": "Mount Sunapee"
   },
+  "43.36,-72.72": {
+    "ridgewoodHours": 5.41,
+    "ridgewoodMiles": 237.6,
+    "skiHours": 0.17,
+    "skiMiles": 4.0,
+    "skiName": "Okemo"
+  },
   "43.36,-72.73": {
     "ridgewoodHours": 5.45,
     "ridgewoodMiles": 237.0,
@@ -3575,10 +4661,38 @@
     "skiMiles": 25.6,
     "skiName": "Gunstock"
   },
+  "43.38,-72.28": {
+    "ridgewoodHours": 5.3,
+    "ridgewoodMiles": 243.4,
+    "skiHours": 0.54,
+    "skiMiles": 15.5,
+    "skiName": "Mount Sunapee"
+  },
+  "43.38,-72.29": {
+    "ridgewoodHours": 5.29,
+    "ridgewoodMiles": 243.2,
+    "skiHours": 0.53,
+    "skiMiles": 15.3,
+    "skiName": "Mount Sunapee"
+  },
   "43.38,-72.34": {
     "skiHours": 0.46,
     "skiMiles": 15.8,
     "skiName": "Mount Sunapee"
+  },
+  "43.38,-72.37": {
+    "ridgewoodHours": 5.13,
+    "ridgewoodMiles": 241.4,
+    "skiHours": 0.57,
+    "skiMiles": 19.6,
+    "skiName": "Mount Sunapee"
+  },
+  "43.39,-70.72": {
+    "ridgewoodHours": 6.13,
+    "ridgewoodMiles": 287.7,
+    "skiHours": 1.51,
+    "skiMiles": 49.1,
+    "skiName": "Gunstock"
   },
   "43.39,-70.76": {
     "skiHours": 1.41,
@@ -3632,9 +4746,23 @@
     "skiMiles": 16.8,
     "skiName": "Mount Sunapee"
   },
+  "43.39,-72.7": {
+    "ridgewoodHours": 5.37,
+    "ridgewoodMiles": 244.6,
+    "skiHours": 0.11,
+    "skiMiles": 1.8,
+    "skiName": "Okemo"
+  },
   "43.4,-70.61": {
     "skiHours": 1.64,
     "skiMiles": 54.4,
+    "skiName": "Gunstock"
+  },
+  "43.4,-70.72": {
+    "ridgewoodHours": 6.11,
+    "ridgewoodMiles": 287.4,
+    "skiHours": 1.49,
+    "skiMiles": 48.8,
     "skiName": "Gunstock"
   },
   "43.4,-70.9": {
@@ -3656,6 +4784,13 @@
     "skiMiles": 26.3,
     "skiName": "Gunstock"
   },
+  "43.4,-71.37": {
+    "ridgewoodHours": 6.08,
+    "ridgewoodMiles": 273.6,
+    "skiHours": 0.61,
+    "skiMiles": 18.0,
+    "skiName": "Gunstock"
+  },
   "43.4,-72.69": {
     "ridgewoodHours": 5.31,
     "ridgewoodMiles": 243.6,
@@ -3668,6 +4803,13 @@
     "ridgewoodMiles": 288.6,
     "skiHours": 0.61,
     "skiMiles": 19.0,
+    "skiName": "Gunstock"
+  },
+  "43.41,-71.3": {
+    "ridgewoodHours": 6.2,
+    "ridgewoodMiles": 276.2,
+    "skiHours": 0.63,
+    "skiMiles": 18.5,
     "skiName": "Gunstock"
   },
   "43.41,-71.31": {
@@ -3752,6 +4894,13 @@
     "skiMiles": 8.8,
     "skiName": "Ragged Mountain"
   },
+  "43.45,-72.71": {
+    "ridgewoodHours": 5.46,
+    "ridgewoodMiles": 248.1,
+    "skiHours": 0.15,
+    "skiMiles": 4.4,
+    "skiName": "Okemo"
+  },
   "43.46,-70.49": {
     "skiHours": 1.52,
     "skiMiles": 59.0,
@@ -3764,11 +4913,25 @@
     "skiMiles": 49.6,
     "skiName": "Pleasant Mountain"
   },
+  "43.46,-70.99": {
+    "ridgewoodHours": 6.24,
+    "ridgewoodMiles": 290.9,
+    "skiHours": 1.0,
+    "skiMiles": 32.2,
+    "skiName": "Gunstock"
+  },
   "43.46,-72.68": {
     "ridgewoodHours": 5.54,
     "ridgewoodMiles": 247.0,
     "skiHours": 0.38,
     "skiMiles": 9.3,
+    "skiName": "Okemo"
+  },
+  "43.46,-72.91": {
+    "ridgewoodHours": 5.42,
+    "ridgewoodMiles": 236.8,
+    "skiHours": 0.42,
+    "skiMiles": 13.8,
     "skiName": "Okemo"
   },
   "43.47,-70.6": {
@@ -3802,6 +4965,13 @@
     "ridgewoodMiles": 294.2,
     "skiHours": 0.91,
     "skiMiles": 26.5,
+    "skiName": "Gunstock"
+  },
+  "43.48,-71.3": {
+    "ridgewoodHours": 6.54,
+    "ridgewoodMiles": 281.8,
+    "skiHours": 0.63,
+    "skiMiles": 14.6,
     "skiName": "Gunstock"
   },
   "43.48,-71.97": {
@@ -3989,6 +5159,13 @@
     "skiMiles": 19.5,
     "skiName": "Gunstock"
   },
+  "43.55,-71.4": {
+    "ridgewoodHours": 6.25,
+    "ridgewoodMiles": 285.9,
+    "skiHours": 0.16,
+    "skiMiles": 3.6,
+    "skiName": "Gunstock"
+  },
   "43.55,-71.61": {
     "ridgewoodHours": 6.09,
     "ridgewoodMiles": 281.4,
@@ -4075,9 +5252,30 @@
     "skiMiles": 20.5,
     "skiName": "Ragged Mountain"
   },
+  "43.59,-72.36": {
+    "ridgewoodHours": 5.37,
+    "ridgewoodMiles": 253.6,
+    "skiHours": 0.98,
+    "skiMiles": 35.6,
+    "skiName": "Okemo"
+  },
+  "43.59,-72.63": {
+    "ridgewoodHours": 5.78,
+    "ridgewoodMiles": 264.6,
+    "skiHours": 0.45,
+    "skiMiles": 15.7,
+    "skiName": "Pico"
+  },
   "43.59,-72.93": {
     "skiHours": 0.35,
     "skiMiles": 9.4,
+    "skiName": "Pico"
+  },
+  "43.59,-73.27": {
+    "ridgewoodHours": 5.11,
+    "ridgewoodMiles": 237.2,
+    "skiHours": 0.72,
+    "skiMiles": 28.6,
     "skiName": "Pico"
   },
   "43.6,-70.41": {
@@ -4101,6 +5299,13 @@
     "skiHours": 1.1,
     "skiMiles": 34.9,
     "skiName": "Gunstock"
+  },
+  "43.6,-71.96": {
+    "ridgewoodHours": 6.05,
+    "ridgewoodMiles": 280.0,
+    "skiHours": 0.65,
+    "skiMiles": 21.4,
+    "skiName": "Ragged Mountain"
   },
   "43.6,-72.33": {
     "ridgewoodHours": 5.51,
@@ -4148,6 +5353,13 @@
     "skiMiles": 34.3,
     "skiName": "Pleasant Mountain"
   },
+  "43.62,-70.9": {
+    "ridgewoodHours": 6.71,
+    "ridgewoodMiles": 307.8,
+    "skiHours": 1.19,
+    "skiMiles": 37.9,
+    "skiName": "Pleasant Mountain"
+  },
   "43.62,-71.1": {
     "ridgewoodHours": 6.53,
     "ridgewoodMiles": 303.1,
@@ -4184,6 +5396,13 @@
     "skiMiles": 6.7,
     "skiName": "Pico"
   },
+  "43.63,-72.8": {
+    "ridgewoodHours": 5.91,
+    "ridgewoodMiles": 270.9,
+    "skiHours": 0.35,
+    "skiMiles": 3.9,
+    "skiName": "Killington"
+  },
   "43.63,-72.98": {
     "ridgewoodHours": 5.53,
     "ridgewoodMiles": 258.1,
@@ -4217,11 +5436,25 @@
     "skiMiles": 8.9,
     "skiName": "Pico"
   },
+  "43.65,-70.42": {
+    "ridgewoodHours": 6.51,
+    "ridgewoodMiles": 308.7,
+    "skiHours": 1.22,
+    "skiMiles": 42.5,
+    "skiName": "Pleasant Mountain"
+  },
   "43.65,-70.72": {
     "ridgewoodHours": 6.72,
     "ridgewoodMiles": 306.9,
     "skiHours": 1.12,
     "skiMiles": 34.0,
+    "skiName": "Pleasant Mountain"
+  },
+  "43.65,-70.76": {
+    "ridgewoodHours": 6.67,
+    "ridgewoodMiles": 307.8,
+    "skiHours": 0.98,
+    "skiMiles": 30.8,
     "skiName": "Pleasant Mountain"
   },
   "43.65,-70.93": {
@@ -4236,6 +5469,13 @@
     "ridgewoodMiles": 305.2,
     "skiHours": 1.22,
     "skiMiles": 39.2,
+    "skiName": "Gunstock"
+  },
+  "43.65,-71.16": {
+    "ridgewoodHours": 6.66,
+    "ridgewoodMiles": 307.9,
+    "skiHours": 0.82,
+    "skiMiles": 27.5,
     "skiName": "Gunstock"
   },
   "43.65,-71.53": {
@@ -4260,11 +5500,25 @@
     "skiMiles": 32.9,
     "skiName": "Pleasant Mountain"
   },
+  "43.66,-71.2": {
+    "ridgewoodHours": 6.82,
+    "ridgewoodMiles": 313.6,
+    "skiHours": 0.99,
+    "skiMiles": 27.6,
+    "skiName": "Gunstock"
+  },
   "43.66,-72.35": {
     "ridgewoodHours": 5.44,
     "ridgewoodMiles": 258.3,
     "skiHours": 1.07,
     "skiMiles": 34.7,
+    "skiName": "Pico"
+  },
+  "43.66,-72.78": {
+    "ridgewoodHours": 5.83,
+    "ridgewoodMiles": 268.5,
+    "skiHours": 0.13,
+    "skiMiles": 3.8,
     "skiName": "Pico"
   },
   "43.66,-72.92": {
@@ -4310,6 +5564,20 @@
     "skiMiles": 30.6,
     "skiName": "Waterville Valley"
   },
+  "43.68,-72.1": {
+    "ridgewoodHours": 5.92,
+    "ridgewoodMiles": 273.4,
+    "skiHours": 1.02,
+    "skiMiles": 31.7,
+    "skiName": "Ragged Mountain"
+  },
+  "43.68,-72.37": {
+    "ridgewoodHours": 5.55,
+    "ridgewoodMiles": 261.8,
+    "skiHours": 1.18,
+    "skiMiles": 37.5,
+    "skiName": "Pico"
+  },
   "43.69,-70.53": {
     "ridgewoodHours": 6.59,
     "ridgewoodMiles": 312.1,
@@ -4329,6 +5597,13 @@
     "ridgewoodMiles": 306.6,
     "skiHours": 1.12,
     "skiMiles": 36.3,
+    "skiName": "Gunstock"
+  },
+  "43.69,-71.1": {
+    "ridgewoodHours": 6.59,
+    "ridgewoodMiles": 307.5,
+    "skiHours": 0.95,
+    "skiMiles": 32.3,
     "skiName": "Gunstock"
   },
   "43.69,-71.21": {
@@ -4356,6 +5631,13 @@
     "skiHours": 0.99,
     "skiMiles": 38.0,
     "skiName": "Mount Sunapee"
+  },
+  "43.71,-70.76": {
+    "ridgewoodHours": 6.84,
+    "ridgewoodMiles": 317.7,
+    "skiHours": 0.98,
+    "skiMiles": 29.2,
+    "skiName": "Pleasant Mountain"
   },
   "43.71,-70.79": {
     "ridgewoodHours": 6.84,
@@ -4390,6 +5672,13 @@
     "skiMiles": 19.2,
     "skiName": "Gunstock"
   },
+  "43.72,-71.69": {
+    "ridgewoodHours": 6.4,
+    "ridgewoodMiles": 295.9,
+    "skiHours": 0.71,
+    "skiMiles": 23.1,
+    "skiName": "Waterville Valley"
+  },
   "43.72,-72.5": {
     "ridgewoodHours": 5.81,
     "ridgewoodMiles": 274.8,
@@ -4401,6 +5690,13 @@
     "skiHours": 0.94,
     "skiMiles": 27.0,
     "skiName": "Pleasant Mountain"
+  },
+  "43.73,-71.07": {
+    "ridgewoodHours": 6.83,
+    "ridgewoodMiles": 312.9,
+    "skiHours": 1.01,
+    "skiMiles": 27.5,
+    "skiName": "Cranmore"
   },
   "43.73,-71.16": {
     "ridgewoodHours": 6.81,
@@ -4415,6 +5711,13 @@
     "skiHours": 0.87,
     "skiMiles": 26.0,
     "skiName": "Pleasant Mountain"
+  },
+  "43.74,-71.01": {
+    "ridgewoodHours": 6.84,
+    "ridgewoodMiles": 313.3,
+    "skiHours": 0.98,
+    "skiMiles": 27.4,
+    "skiName": "Cranmore"
   },
   "43.74,-71.09": {
     "skiHours": 0.94,
@@ -4454,6 +5757,13 @@
     "skiMiles": 12.8,
     "skiName": "Pico"
   },
+  "43.74,-72.99": {
+    "ridgewoodHours": 5.82,
+    "ridgewoodMiles": 264.8,
+    "skiHours": 0.45,
+    "skiMiles": 12.9,
+    "skiName": "Pico"
+  },
   "43.74,-73.32": {
     "ridgewoodHours": 5.42,
     "ridgewoodMiles": 247.6,
@@ -4489,6 +5799,27 @@
     "skiMiles": 29.1,
     "skiName": "Cranmore"
   },
+  "43.75,-71.17": {
+    "ridgewoodHours": 6.8,
+    "ridgewoodMiles": 313.9,
+    "skiHours": 0.91,
+    "skiMiles": 28.6,
+    "skiName": "Cranmore"
+  },
+  "43.75,-71.18": {
+    "ridgewoodHours": 6.84,
+    "ridgewoodMiles": 314.4,
+    "skiHours": 0.94,
+    "skiMiles": 29.2,
+    "skiName": "Cranmore"
+  },
+  "43.75,-71.69": {
+    "ridgewoodHours": 6.36,
+    "ridgewoodMiles": 297.3,
+    "skiHours": 0.57,
+    "skiMiles": 20.1,
+    "skiName": "Waterville Valley"
+  },
   "43.76,-69.84": {
     "skiHours": 1.6,
     "skiMiles": 58.4,
@@ -4498,6 +5829,13 @@
     "skiHours": 1.62,
     "skiMiles": 58.6,
     "skiName": "Camden Snow Bowl"
+  },
+  "43.76,-70.43": {
+    "ridgewoodHours": 6.69,
+    "ridgewoodMiles": 317.4,
+    "skiHours": 0.98,
+    "skiMiles": 34.0,
+    "skiName": "Pleasant Mountain"
   },
   "43.76,-70.49": {
     "ridgewoodHours": 6.73,
@@ -4532,6 +5870,13 @@
     "skiMiles": 21.0,
     "skiName": "Waterville Valley"
   },
+  "43.76,-71.94": {
+    "ridgewoodHours": 6.21,
+    "ridgewoodMiles": 285.0,
+    "skiHours": 1.05,
+    "skiMiles": 34.5,
+    "skiName": "Ragged Mountain"
+  },
   "43.76,-72.48": {
     "ridgewoodHours": 5.74,
     "ridgewoodMiles": 271.8,
@@ -4557,6 +5902,13 @@
     "skiHours": 0.58,
     "skiMiles": 14.8,
     "skiName": "Pico"
+  },
+  "43.78,-70.48": {
+    "ridgewoodHours": 6.76,
+    "ridgewoodMiles": 319.1,
+    "skiHours": 1.04,
+    "skiMiles": 35.0,
+    "skiName": "Pleasant Mountain"
   },
   "43.78,-71.85": {
     "ridgewoodHours": 6.57,
@@ -4660,12 +6012,26 @@
     "skiMiles": 41.7,
     "skiName": "Pico"
   },
+  "43.84,-71.35": {
+    "ridgewoodHours": 6.93,
+    "ridgewoodMiles": 312.8,
+    "skiHours": 0.87,
+    "skiMiles": 24.1,
+    "skiName": "Waterville Valley"
+  },
   "43.84,-71.95": {
     "ridgewoodHours": 6.59,
     "ridgewoodMiles": 291.9,
     "skiHours": 1.07,
     "skiMiles": 33.4,
     "skiName": "Waterville Valley"
+  },
+  "43.84,-73.06": {
+    "ridgewoodHours": 5.93,
+    "ridgewoodMiles": 266.3,
+    "skiHours": 0.77,
+    "skiMiles": 24.6,
+    "skiName": "Pico"
   },
   "43.85,-69.78": {
     "skiHours": 1.39,
@@ -4705,6 +6071,13 @@
     "skiHours": 1.52,
     "skiMiles": 49.6,
     "skiName": "Camden Snow Bowl"
+  },
+  "43.86,-70.34": {
+    "ridgewoodHours": 6.77,
+    "ridgewoodMiles": 324.8,
+    "skiHours": 1.04,
+    "skiMiles": 33.9,
+    "skiName": "Pleasant Mountain"
   },
   "43.86,-70.66": {
     "ridgewoodHours": 7.03,
@@ -4753,6 +6126,13 @@
     "skiMiles": 18.0,
     "skiName": "Pleasant Mountain"
   },
+  "43.87,-71.61": {
+    "ridgewoodHours": 6.56,
+    "ridgewoodMiles": 305.6,
+    "skiHours": 0.42,
+    "skiMiles": 12.4,
+    "skiName": "Waterville Valley"
+  },
   "43.87,-72.45": {
     "skiHours": 1.15,
     "skiMiles": 37.1,
@@ -4763,6 +6143,13 @@
     "ridgewoodMiles": 278.4,
     "skiHours": 1.02,
     "skiMiles": 34.2,
+    "skiName": "Pico"
+  },
+  "43.87,-72.84": {
+    "ridgewoodHours": 6.39,
+    "ridgewoodMiles": 279.9,
+    "skiHours": 0.73,
+    "skiMiles": 23.9,
     "skiName": "Pico"
   },
   "43.87,-73.09": {
@@ -4792,6 +6179,13 @@
     "skiHours": 0.58,
     "skiMiles": 16.4,
     "skiName": "Cranmore"
+  },
+  "43.88,-71.67": {
+    "ridgewoodHours": 6.5,
+    "ridgewoodMiles": 306.0,
+    "skiHours": 0.46,
+    "skiMiles": 15.1,
+    "skiName": "Waterville Valley"
   },
   "43.88,-71.94": {
     "skiHours": 0.91,
@@ -4830,6 +6224,20 @@
     "skiHours": 0.47,
     "skiMiles": 12.9,
     "skiName": "Cranmore"
+  },
+  "43.9,-71.66": {
+    "ridgewoodHours": 6.58,
+    "ridgewoodMiles": 307.2,
+    "skiHours": 0.43,
+    "skiMiles": 13.3,
+    "skiName": "Waterville Valley"
+  },
+  "43.9,-71.68": {
+    "ridgewoodHours": 6.53,
+    "ridgewoodMiles": 307.3,
+    "skiHours": 0.42,
+    "skiMiles": 14.0,
+    "skiName": "Loon Mountain"
   },
   "43.9,-72.0": {
     "ridgewoodHours": 6.14,
@@ -4888,6 +6296,13 @@
     "skiMiles": 14.9,
     "skiName": "Loon Mountain"
   },
+  "43.92,-71.69": {
+    "ridgewoodHours": 6.6,
+    "ridgewoodMiles": 309.3,
+    "skiHours": 0.41,
+    "skiMiles": 12.9,
+    "skiName": "Loon Mountain"
+  },
   "43.92,-72.62": {
     "ridgewoodHours": 6.12,
     "ridgewoodMiles": 289.4,
@@ -4921,6 +6336,20 @@
     "skiMiles": 13.1,
     "skiName": "Pleasant Mountain"
   },
+  "43.93,-71.11": {
+    "ridgewoodHours": 7.31,
+    "ridgewoodMiles": 330.1,
+    "skiHours": 0.37,
+    "skiMiles": 9.9,
+    "skiName": "Cranmore"
+  },
+  "43.93,-71.67": {
+    "ridgewoodHours": 6.61,
+    "ridgewoodMiles": 310.2,
+    "skiHours": 0.41,
+    "skiMiles": 11.9,
+    "skiName": "Loon Mountain"
+  },
   "43.93,-71.96": {
     "skiHours": 1.02,
     "skiMiles": 26.9,
@@ -4945,12 +6374,33 @@
     "skiMiles": 11.5,
     "skiName": "Cranmore"
   },
+  "43.94,-71.14": {
+    "ridgewoodHours": 7.22,
+    "ridgewoodMiles": 328.2,
+    "skiHours": 0.41,
+    "skiMiles": 10.9,
+    "skiName": "Cranmore"
+  },
+  "43.94,-71.15": {
+    "ridgewoodHours": 7.24,
+    "ridgewoodMiles": 328.5,
+    "skiHours": 0.39,
+    "skiMiles": 9.8,
+    "skiName": "Cranmore"
+  },
   "43.94,-72.63": {
     "ridgewoodHours": 5.99,
     "ridgewoodMiles": 287.4,
     "skiHours": 0.96,
     "skiMiles": 27.8,
     "skiName": "Sugarbush"
+  },
+  "43.95,-69.76": {
+    "ridgewoodHours": 7.27,
+    "ridgewoodMiles": 346.8,
+    "skiHours": 1.15,
+    "skiMiles": 43.6,
+    "skiName": "Camden Snow Bowl"
   },
   "43.95,-70.89": {
     "ridgewoodHours": 7.28,
@@ -4986,6 +6436,13 @@
   "43.96,-70.96": {
     "skiHours": 0.56,
     "skiMiles": 14.4,
+    "skiName": "Cranmore"
+  },
+  "43.96,-71.12": {
+    "ridgewoodHours": 7.36,
+    "ridgewoodMiles": 335.3,
+    "skiHours": 0.29,
+    "skiMiles": 7.4,
     "skiName": "Cranmore"
   },
   "43.96,-71.17": {
@@ -5026,12 +6483,26 @@
     "skiMiles": 44.0,
     "skiName": "Camden Snow Bowl"
   },
+  "43.97,-71.13": {
+    "ridgewoodHours": 7.34,
+    "ridgewoodMiles": 331.1,
+    "skiHours": 0.32,
+    "skiMiles": 7.6,
+    "skiName": "Cranmore"
+  },
   "43.97,-72.05": {
     "ridgewoodHours": 6.07,
     "ridgewoodMiles": 287.2,
     "skiHours": 1.09,
     "skiMiles": 31.5,
     "skiName": "Loon Mountain"
+  },
+  "43.97,-72.75": {
+    "ridgewoodHours": 6.22,
+    "ridgewoodMiles": 295.1,
+    "skiHours": 0.73,
+    "skiMiles": 20.0,
+    "skiName": "Sugarbush"
   },
   "43.98,-69.23": {
     "ridgewoodHours": 8.49,
@@ -5058,6 +6529,8 @@
     "skiName": "Camden Snow Bowl"
   },
   "43.98,-69.49": {
+    "ridgewoodHours": 7.93,
+    "ridgewoodMiles": 368.3,
     "skiHours": 1.02,
     "skiMiles": 36.6,
     "skiName": "Camden Snow Bowl"
@@ -5095,6 +6568,13 @@
     "skiMiles": 12.4,
     "skiName": "Pleasant Mountain"
   },
+  "43.98,-71.03": {
+    "ridgewoodHours": 7.56,
+    "ridgewoodMiles": 339.9,
+    "skiHours": 0.37,
+    "skiMiles": 9.5,
+    "skiName": "Cranmore"
+  },
   "43.98,-73.09": {
     "ridgewoodHours": 6.16,
     "ridgewoodMiles": 271.7,
@@ -5120,6 +6600,13 @@
     "skiHours": 0.38,
     "skiMiles": 11.4,
     "skiName": "Pleasant Mountain"
+  },
+  "43.99,-71.13": {
+    "ridgewoodHours": 7.39,
+    "ridgewoodMiles": 335.6,
+    "skiHours": 0.29,
+    "skiMiles": 7.3,
+    "skiName": "Cranmore"
   },
   "43.99,-72.72": {
     "ridgewoodHours": 6.29,
@@ -5164,6 +6651,13 @@
     "skiMiles": 44.7,
     "skiName": "Sugarbush"
   },
+  "44.0,-72.65": {
+    "ridgewoodHours": 6.17,
+    "ridgewoodMiles": 293.2,
+    "skiHours": 0.97,
+    "skiMiles": 27.3,
+    "skiName": "Sugarbush"
+  },
   "44.0,-73.05": {
     "skiHours": 0.75,
     "skiMiles": 17.6,
@@ -5194,6 +6688,13 @@
     "skiHours": 0.45,
     "skiMiles": 4.8,
     "skiName": "Pleasant Mountain"
+  },
+  "44.01,-71.08": {
+    "ridgewoodHours": 7.46,
+    "ridgewoodMiles": 337.9,
+    "skiHours": 0.21,
+    "skiMiles": 5.6,
+    "skiName": "Cranmore"
   },
   "44.02,-69.28": {
     "skiHours": 0.59,
@@ -5258,6 +6759,13 @@
     "skiMiles": 30.2,
     "skiName": "Sugarbush"
   },
+  "44.04,-68.82": {
+    "ridgewoodHours": 9.57,
+    "ridgewoodMiles": 405.6,
+    "skiHours": 1.56,
+    "skiMiles": 26.9,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.04,-69.26": {
     "ridgewoodHours": 8.22,
     "ridgewoodMiles": 383.7,
@@ -5293,6 +6801,13 @@
     "skiMiles": 13.4,
     "skiName": "Cranmore"
   },
+  "44.04,-71.0": {
+    "ridgewoodHours": 7.55,
+    "ridgewoodMiles": 345.6,
+    "skiHours": 0.35,
+    "skiMiles": 9.9,
+    "skiName": "Cranmore"
+  },
   "44.04,-72.6": {
     "ridgewoodHours": 6.27,
     "ridgewoodMiles": 294.7,
@@ -5304,6 +6819,13 @@
     "skiHours": 0.65,
     "skiMiles": 13.5,
     "skiName": "Sugarbush"
+  },
+  "44.05,-68.85": {
+    "ridgewoodHours": 9.54,
+    "ridgewoodMiles": 404.8,
+    "skiHours": 1.53,
+    "skiMiles": 26.2,
+    "skiName": "Camden Snow Bowl"
   },
   "44.05,-69.14": {
     "ridgewoodHours": 8.28,
@@ -5371,6 +6893,13 @@
     "skiMiles": 27.2,
     "skiName": "Camden Snow Bowl"
   },
+  "44.06,-69.42": {
+    "ridgewoodHours": 8.04,
+    "ridgewoodMiles": 370.5,
+    "skiHours": 0.72,
+    "skiMiles": 23.6,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.06,-69.48": {
     "ridgewoodHours": 7.79,
     "ridgewoodMiles": 364.2,
@@ -5416,6 +6945,13 @@
     "skiMiles": 25.8,
     "skiName": "Pleasant Mountain"
   },
+  "44.06,-70.57": {
+    "ridgewoodHours": 7.28,
+    "ridgewoodMiles": 338.4,
+    "skiHours": 0.79,
+    "skiMiles": 25.7,
+    "skiName": "Pleasant Mountain"
+  },
   "44.07,-69.42": {
     "ridgewoodHours": 7.99,
     "ridgewoodMiles": 369.8,
@@ -5428,12 +6964,33 @@
     "skiMiles": 26.3,
     "skiName": "Camden Snow Bowl"
   },
+  "44.07,-70.33": {
+    "ridgewoodHours": 7.09,
+    "ridgewoodMiles": 341.8,
+    "skiHours": 1.06,
+    "skiMiles": 33.1,
+    "skiName": "Pleasant Mountain"
+  },
+  "44.07,-70.51": {
+    "ridgewoodHours": 7.43,
+    "ridgewoodMiles": 342.6,
+    "skiHours": 0.94,
+    "skiMiles": 30.0,
+    "skiName": "Pleasant Mountain"
+  },
   "44.07,-70.74": {
     "ridgewoodHours": 7.28,
     "ridgewoodMiles": 344.6,
     "skiHours": 0.35,
     "skiMiles": 8.8,
     "skiName": "Pleasant Mountain"
+  },
+  "44.07,-70.98": {
+    "ridgewoodHours": 7.63,
+    "ridgewoodMiles": 348.4,
+    "skiHours": 0.42,
+    "skiMiles": 12.6,
+    "skiName": "Cranmore"
   },
   "44.07,-72.22": {
     "ridgewoodHours": 6.16,
@@ -5471,6 +7028,13 @@
     "skiMiles": 5.9,
     "skiName": "Pleasant Mountain"
   },
+  "44.08,-72.26": {
+    "ridgewoodHours": 6.18,
+    "ridgewoodMiles": 294.3,
+    "skiHours": 1.42,
+    "skiMiles": 44.8,
+    "skiName": "Sugarbush"
+  },
   "44.08,-72.67": {
     "ridgewoodHours": 6.45,
     "ridgewoodMiles": 305.4,
@@ -5490,6 +7054,13 @@
     "ridgewoodMiles": 378.1,
     "skiHours": 0.57,
     "skiMiles": 17.4,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.09,-69.37": {
+    "ridgewoodHours": 7.91,
+    "ridgewoodMiles": 371.8,
+    "skiHours": 0.55,
+    "skiMiles": 20.1,
     "skiName": "Camden Snow Bowl"
   },
   "44.09,-69.46": {
@@ -5610,6 +7181,13 @@
     "skiMiles": 23.2,
     "skiName": "Pleasant Mountain"
   },
+  "44.1,-70.67": {
+    "ridgewoodHours": 7.43,
+    "ridgewoodMiles": 348.3,
+    "skiHours": 0.52,
+    "skiMiles": 14.8,
+    "skiName": "Pleasant Mountain"
+  },
   "44.1,-70.95": {
     "ridgewoodHours": 7.76,
     "ridgewoodMiles": 350.2,
@@ -5638,6 +7216,13 @@
     "skiMiles": 47.6,
     "skiName": "Camden Snow Bowl"
   },
+  "44.11,-70.39": {
+    "ridgewoodHours": 7.14,
+    "ridgewoodMiles": 339.8,
+    "skiHours": 0.93,
+    "skiMiles": 31.4,
+    "skiName": "Pleasant Mountain"
+  },
   "44.11,-70.67": {
     "skiHours": 0.48,
     "skiMiles": 14.2,
@@ -5649,6 +7234,27 @@
     "skiHours": 0.63,
     "skiMiles": 13.6,
     "skiName": "Pleasant Mountain"
+  },
+  "44.11,-71.94": {
+    "ridgewoodHours": 6.5,
+    "ridgewoodMiles": 300.9,
+    "skiHours": 0.69,
+    "skiMiles": 19.6,
+    "skiName": "Cannon Mountain"
+  },
+  "44.11,-71.96": {
+    "ridgewoodHours": 6.45,
+    "ridgewoodMiles": 300.2,
+    "skiHours": 0.76,
+    "skiMiles": 21.7,
+    "skiName": "Cannon Mountain"
+  },
+  "44.11,-72.18": {
+    "ridgewoodHours": 6.36,
+    "ridgewoodMiles": 297.4,
+    "skiHours": 1.26,
+    "skiMiles": 41.3,
+    "skiName": "Cannon Mountain"
   },
   "44.11,-72.45": {
     "ridgewoodHours": 6.59,
@@ -5700,6 +7306,13 @@
     "skiMiles": 40.2,
     "skiName": "Mount Abram"
   },
+  "44.12,-70.45": {
+    "ridgewoodHours": 7.17,
+    "ridgewoodMiles": 341.2,
+    "skiHours": 0.81,
+    "skiMiles": 32.5,
+    "skiName": "Mount Abram"
+  },
   "44.12,-70.54": {
     "ridgewoodHours": 7.5,
     "ridgewoodMiles": 343.7,
@@ -5712,6 +7325,13 @@
     "ridgewoodMiles": 307.9,
     "skiHours": 0.65,
     "skiMiles": 18.8,
+    "skiName": "Cannon Mountain"
+  },
+  "44.12,-71.96": {
+    "ridgewoodHours": 6.5,
+    "ridgewoodMiles": 301.3,
+    "skiHours": 0.74,
+    "skiMiles": 21.0,
     "skiName": "Cannon Mountain"
   },
   "44.12,-71.97": {
@@ -5830,6 +7450,13 @@
     "skiMiles": 33.6,
     "skiName": "Pleasant Mountain"
   },
+  "44.14,-70.7": {
+    "ridgewoodHours": 7.4,
+    "ridgewoodMiles": 348.7,
+    "skiHours": 0.49,
+    "skiMiles": 15.3,
+    "skiName": "Pleasant Mountain"
+  },
   "44.14,-72.48": {
     "ridgewoodHours": 6.46,
     "ridgewoodMiles": 306.6,
@@ -5856,6 +7483,13 @@
     "skiMiles": 49.8,
     "skiName": "Camden Snow Bowl"
   },
+  "44.15,-69.96": {
+    "ridgewoodHours": 7.37,
+    "ridgewoodMiles": 354.5,
+    "skiHours": 1.49,
+    "skiMiles": 54.4,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.15,-70.19": {
     "ridgewoodHours": 7.07,
     "ridgewoodMiles": 343.9,
@@ -5874,6 +7508,13 @@
     "skiHours": 0.96,
     "skiMiles": 34.3,
     "skiName": "Mount Abram"
+  },
+  "44.15,-70.6": {
+    "ridgewoodHours": 7.5,
+    "ridgewoodMiles": 352.5,
+    "skiHours": 0.59,
+    "skiMiles": 19.1,
+    "skiName": "Pleasant Mountain"
   },
   "44.15,-72.1": {
     "ridgewoodHours": 6.23,
@@ -5906,6 +7547,13 @@
     "skiMiles": 79.0,
     "skiName": "Camden Snow Bowl"
   },
+  "44.16,-69.24": {
+    "ridgewoodHours": 8.16,
+    "ridgewoodMiles": 381.0,
+    "skiHours": 0.44,
+    "skiMiles": 14.6,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.16,-69.42": {
     "ridgewoodHours": 7.99,
     "ridgewoodMiles": 375.1,
@@ -5933,6 +7581,13 @@
     "skiHours": 1.31,
     "skiMiles": 46.3,
     "skiName": "Pleasant Mountain"
+  },
+  "44.16,-70.29": {
+    "ridgewoodHours": 7.2,
+    "ridgewoodMiles": 345.6,
+    "skiHours": 1.05,
+    "skiMiles": 38.7,
+    "skiName": "Mount Abram"
   },
   "44.16,-70.54": {
     "ridgewoodHours": 7.58,
@@ -5963,6 +7618,13 @@
     "skiMiles": 22.4,
     "skiName": "Cannon Mountain"
   },
+  "44.16,-71.99": {
+    "ridgewoodHours": 6.41,
+    "ridgewoodMiles": 303.8,
+    "skiHours": 0.73,
+    "skiMiles": 24.4,
+    "skiName": "Cannon Mountain"
+  },
   "44.16,-72.1": {
     "ridgewoodHours": 6.17,
     "ridgewoodMiles": 297.5,
@@ -5976,6 +7638,8 @@
     "skiName": "Cannon Mountain"
   },
   "44.16,-72.5": {
+    "ridgewoodHours": 6.45,
+    "ridgewoodMiles": 308.4,
     "skiHours": 0.98,
     "skiMiles": 27.5,
     "skiName": "Sugarbush"
@@ -5987,10 +7651,24 @@
     "skiMiles": 14.2,
     "skiName": "Sugarbush"
   },
+  "44.17,-68.66": {
+    "ridgewoodHours": 9.93,
+    "ridgewoodMiles": 465.7,
+    "skiHours": 1.96,
+    "skiMiles": 77.3,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.17,-69.69": {
     "skiHours": 1.23,
     "skiMiles": 39.9,
     "skiName": "Camden Snow Bowl"
+  },
+  "44.17,-70.13": {
+    "ridgewoodHours": 7.23,
+    "ridgewoodMiles": 349.3,
+    "skiHours": 1.46,
+    "skiMiles": 51.2,
+    "skiName": "Pleasant Mountain"
   },
   "44.17,-70.93": {
     "skiHours": 0.73,
@@ -6007,6 +7685,20 @@
     "ridgewoodMiles": 387.8,
     "skiHours": 0.11,
     "skiMiles": 2.6,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.18,-69.14": {
+    "ridgewoodHours": 8.2,
+    "ridgewoodMiles": 385.0,
+    "skiHours": 0.18,
+    "skiMiles": 5.2,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.18,-69.15": {
+    "ridgewoodHours": 8.23,
+    "ridgewoodMiles": 385.6,
+    "skiHours": 0.21,
+    "skiMiles": 5.8,
     "skiName": "Camden Snow Bowl"
   },
   "44.18,-69.94": {
@@ -6110,6 +7802,13 @@
     "skiMiles": 24.4,
     "skiName": "Pleasant Mountain"
   },
+  "44.19,-72.48": {
+    "ridgewoodHours": 6.5,
+    "ridgewoodMiles": 309.4,
+    "skiHours": 0.95,
+    "skiMiles": 31.7,
+    "skiName": "Stowe"
+  },
   "44.2,-69.41": {
     "ridgewoodHours": 8.06,
     "ridgewoodMiles": 379.8,
@@ -6159,6 +7858,13 @@
     "skiMiles": 10.6,
     "skiName": "Cannon Mountain"
   },
+  "44.21,-71.9": {
+    "ridgewoodHours": 6.58,
+    "ridgewoodMiles": 312.0,
+    "skiHours": 0.54,
+    "skiMiles": 17.5,
+    "skiName": "Cannon Mountain"
+  },
   "44.21,-72.01": {
     "skiHours": 0.83,
     "skiMiles": 23.5,
@@ -6185,6 +7891,13 @@
     "skiMiles": 42.2,
     "skiName": "Camden Snow Bowl"
   },
+  "44.22,-69.85": {
+    "ridgewoodHours": 7.55,
+    "ridgewoodMiles": 361.1,
+    "skiHours": 1.3,
+    "skiMiles": 46.2,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.22,-71.91": {
     "ridgewoodHours": 6.55,
     "ridgewoodMiles": 311.4,
@@ -6206,11 +7919,25 @@
     "skiMiles": 30.6,
     "skiName": "Stowe"
   },
+  "44.22,-72.52": {
+    "ridgewoodHours": 6.56,
+    "ridgewoodMiles": 312.6,
+    "skiHours": 0.91,
+    "skiMiles": 28.4,
+    "skiName": "Stowe"
+  },
   "44.23,-68.68": {
     "ridgewoodHours": 9.78,
     "ridgewoodMiles": 460.4,
     "skiHours": 1.81,
     "skiMiles": 72.0,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.23,-69.11": {
+    "ridgewoodHours": 8.46,
+    "ridgewoodMiles": 392.3,
+    "skiHours": 0.1,
+    "skiMiles": 1.6,
     "skiName": "Camden Snow Bowl"
   },
   "44.23,-69.18": {
@@ -6345,6 +8072,13 @@
     "skiMiles": 17.2,
     "skiName": "Mount Abram"
   },
+  "44.25,-71.73": {
+    "ridgewoodHours": 7.01,
+    "ridgewoodMiles": 324.8,
+    "skiHours": 0.31,
+    "skiMiles": 9.2,
+    "skiName": "Cannon Mountain"
+  },
   "44.25,-71.78": {
     "skiHours": 0.34,
     "skiMiles": 9.4,
@@ -6416,6 +8150,13 @@
     "skiMiles": 12.4,
     "skiName": "Mount Abram"
   },
+  "44.26,-71.73": {
+    "ridgewoodHours": 7.03,
+    "ridgewoodMiles": 325.0,
+    "skiHours": 0.33,
+    "skiMiles": 9.4,
+    "skiName": "Cannon Mountain"
+  },
   "44.26,-71.85": {
     "ridgewoodHours": 6.68,
     "ridgewoodMiles": 315.9,
@@ -6429,6 +8170,20 @@
     "skiHours": 1.12,
     "skiMiles": 31.8,
     "skiName": "Burke Mountain"
+  },
+  "44.27,-68.4": {
+    "ridgewoodHours": 9.92,
+    "ridgewoodMiles": 470.6,
+    "skiHours": 1.95,
+    "skiMiles": 82.2,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.27,-68.67": {
+    "ridgewoodHours": 9.69,
+    "ridgewoodMiles": 457.5,
+    "skiHours": 1.72,
+    "skiMiles": 69.2,
+    "skiName": "Camden Snow Bowl"
   },
   "44.27,-69.23": {
     "ridgewoodHours": 8.34,
@@ -6483,6 +8238,8 @@
     "skiName": "Cannon Mountain"
   },
   "44.27,-71.9": {
+    "ridgewoodHours": 6.76,
+    "ridgewoodMiles": 316.7,
     "skiHours": 0.61,
     "skiMiles": 18.1,
     "skiName": "Cannon Mountain"
@@ -6497,6 +8254,13 @@
     "ridgewoodMiles": 455.4,
     "skiHours": 1.73,
     "skiMiles": 67.0,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.28,-69.01": {
+    "ridgewoodHours": 8.49,
+    "ridgewoodMiles": 395.5,
+    "skiHours": 0.23,
+    "skiMiles": 7.9,
     "skiName": "Camden Snow Bowl"
   },
   "44.28,-69.4": {
@@ -6519,6 +8283,20 @@
     "skiHours": 0.86,
     "skiMiles": 33.5,
     "skiName": "Camden Snow Bowl"
+  },
+  "44.28,-69.68": {
+    "ridgewoodHours": 7.56,
+    "ridgewoodMiles": 363.7,
+    "skiHours": 0.93,
+    "skiMiles": 35.9,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.28,-71.7": {
+    "ridgewoodHours": 6.97,
+    "ridgewoodMiles": 326.7,
+    "skiHours": 0.35,
+    "skiMiles": 13.8,
+    "skiName": "Cannon Mountain"
   },
   "44.28,-71.91": {
     "ridgewoodHours": 6.77,
@@ -6591,6 +8369,13 @@
     "skiMiles": 38.7,
     "skiName": "Camden Snow Bowl"
   },
+  "44.3,-69.8": {
+    "ridgewoodHours": 7.48,
+    "ridgewoodMiles": 363.5,
+    "skiHours": 1.19,
+    "skiMiles": 44.4,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.3,-69.91": {
     "ridgewoodHours": 7.49,
     "ridgewoodMiles": 363.8,
@@ -6641,6 +8426,13 @@
     "skiMiles": 11.8,
     "skiName": "Camden Snow Bowl"
   },
+  "44.31,-69.35": {
+    "ridgewoodHours": 8.15,
+    "ridgewoodMiles": 386.2,
+    "skiHours": 0.73,
+    "skiMiles": 25.9,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.31,-69.56": {
     "ridgewoodHours": 7.77,
     "ridgewoodMiles": 371.3,
@@ -6672,6 +8464,20 @@
     "ridgewoodMiles": 366.2,
     "skiHours": 0.99,
     "skiMiles": 38.6,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.31,-69.75": {
+    "ridgewoodHours": 7.56,
+    "ridgewoodMiles": 364.4,
+    "skiHours": 1.03,
+    "skiMiles": 39.6,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.31,-69.77": {
+    "ridgewoodHours": 7.53,
+    "ridgewoodMiles": 363.8,
+    "skiHours": 1.07,
+    "skiMiles": 40.7,
     "skiName": "Camden Snow Bowl"
   },
   "44.31,-70.37": {
@@ -6731,6 +8537,13 @@
     "ridgewoodMiles": 360.4,
     "skiHours": 0.91,
     "skiMiles": 32.1,
+    "skiName": "Mount Abram"
+  },
+  "44.32,-70.58": {
+    "ridgewoodHours": 7.66,
+    "ridgewoodMiles": 359.0,
+    "skiHours": 0.41,
+    "skiMiles": 17.1,
     "skiName": "Mount Abram"
   },
   "44.32,-71.67": {
@@ -6799,6 +8612,13 @@
     "skiMiles": 20.3,
     "skiName": "Bolton Valley"
   },
+  "44.34,-68.97": {
+    "ridgewoodHours": 8.64,
+    "ridgewoodMiles": 417.1,
+    "skiHours": 0.38,
+    "skiMiles": 14.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.34,-68.99": {
     "ridgewoodHours": 8.67,
     "ridgewoodMiles": 417.6,
@@ -6823,6 +8643,13 @@
     "ridgewoodMiles": 372.4,
     "skiHours": 0.95,
     "skiMiles": 35.9,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.34,-69.6": {
+    "ridgewoodHours": 7.85,
+    "ridgewoodMiles": 373.4,
+    "skiHours": 1.0,
+    "skiMiles": 36.9,
     "skiName": "Camden Snow Bowl"
   },
   "44.34,-69.67": {
@@ -6872,6 +8699,13 @@
     "skiMiles": 15.6,
     "skiName": "Camden Snow Bowl"
   },
+  "44.35,-69.34": {
+    "ridgewoodHours": 8.2,
+    "ridgewoodMiles": 388.1,
+    "skiHours": 0.77,
+    "skiMiles": 27.8,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.35,-69.54": {
     "skiHours": 1.14,
     "skiMiles": 38.3,
@@ -6896,6 +8730,13 @@
     "skiMiles": 39.0,
     "skiName": "Black Mountain of Maine"
   },
+  "44.35,-71.52": {
+    "ridgewoodHours": 7.39,
+    "ridgewoodMiles": 341.6,
+    "skiHours": 0.36,
+    "skiMiles": 11.8,
+    "skiName": "Bretton Woods"
+  },
   "44.35,-71.61": {
     "ridgewoodHours": 7.25,
     "ridgewoodMiles": 332.2,
@@ -6909,6 +8750,13 @@
     "skiHours": 0.51,
     "skiMiles": 22.2,
     "skiName": "Cannon Mountain"
+  },
+  "44.35,-72.43": {
+    "ridgewoodHours": 6.88,
+    "ridgewoodMiles": 324.2,
+    "skiHours": 1.22,
+    "skiMiles": 39.9,
+    "skiName": "Stowe"
   },
   "44.36,-69.2": {
     "ridgewoodHours": 8.4,
@@ -6936,6 +8784,13 @@
     "skiMiles": 26.9,
     "skiName": "Black Mountain of Maine"
   },
+  "44.36,-70.51": {
+    "ridgewoodHours": 7.7,
+    "ridgewoodMiles": 360.7,
+    "skiHours": 0.44,
+    "skiMiles": 18.6,
+    "skiName": "Mount Abram"
+  },
   "44.36,-70.59": {
     "ridgewoodHours": 7.72,
     "ridgewoodMiles": 361.7,
@@ -6962,6 +8817,13 @@
     "ridgewoodMiles": 449.8,
     "skiHours": 1.51,
     "skiMiles": 61.4,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.37,-69.04": {
+    "ridgewoodHours": 8.59,
+    "ridgewoodMiles": 411.6,
+    "skiHours": 0.58,
+    "skiMiles": 19.3,
     "skiName": "Camden Snow Bowl"
   },
   "44.37,-69.34": {
@@ -7049,6 +8911,13 @@
     "skiMiles": 19.1,
     "skiName": "Camden Snow Bowl"
   },
+  "44.38,-69.32": {
+    "ridgewoodHours": 8.23,
+    "ridgewoodMiles": 395.4,
+    "skiHours": 0.84,
+    "skiMiles": 29.9,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.38,-69.41": {
     "ridgewoodHours": 8.02,
     "ridgewoodMiles": 386.9,
@@ -7066,6 +8935,20 @@
   "44.38,-70.09": {
     "skiHours": 1.13,
     "skiMiles": 39.4,
+    "skiName": "Black Mountain of Maine"
+  },
+  "44.38,-70.18": {
+    "ridgewoodHours": 7.52,
+    "ridgewoodMiles": 363.5,
+    "skiHours": 0.91,
+    "skiMiles": 29.1,
+    "skiName": "Black Mountain of Maine"
+  },
+  "44.38,-70.21": {
+    "ridgewoodHours": 7.42,
+    "ridgewoodMiles": 362.0,
+    "skiHours": 0.81,
+    "skiMiles": 27.6,
     "skiName": "Black Mountain of Maine"
   },
   "44.38,-70.64": {
@@ -7264,6 +9147,8 @@
     "skiName": "Stowe"
   },
   "44.41,-67.98": {
+    "ridgewoodHours": 10.07,
+    "ridgewoodMiles": 474.2,
     "skiHours": 2.1,
     "skiMiles": 85.8,
     "skiName": "Camden Snow Bowl"
@@ -7296,6 +9181,13 @@
     "skiMiles": 44.8,
     "skiName": "Camden Snow Bowl"
   },
+  "44.41,-69.54": {
+    "ridgewoodHours": 7.87,
+    "ridgewoodMiles": 379.2,
+    "skiHours": 1.04,
+    "skiMiles": 50.3,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.41,-69.9": {
     "skiHours": 1.56,
     "skiMiles": 50.4,
@@ -7323,6 +9215,20 @@
     "ridgewoodMiles": 368.8,
     "skiHours": 0.14,
     "skiMiles": 4.7,
+    "skiName": "Mount Abram"
+  },
+  "44.41,-70.73": {
+    "ridgewoodHours": 7.84,
+    "ridgewoodMiles": 369.8,
+    "skiHours": 0.11,
+    "skiMiles": 3.7,
+    "skiName": "Mount Abram"
+  },
+  "44.41,-70.85": {
+    "ridgewoodHours": 8.05,
+    "ridgewoodMiles": 376.5,
+    "skiHours": 0.16,
+    "skiMiles": 4.1,
     "skiName": "Mount Abram"
   },
   "44.41,-71.53": {
@@ -7373,6 +9279,13 @@
     "skiMiles": 83.6,
     "skiName": "Camden Snow Bowl"
   },
+  "44.43,-68.42": {
+    "ridgewoodHours": 9.47,
+    "ridgewoodMiles": 454.4,
+    "skiHours": 1.5,
+    "skiMiles": 66.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.43,-68.98": {
     "ridgewoodHours": 8.52,
     "ridgewoodMiles": 411.7,
@@ -7385,9 +9298,30 @@
     "skiMiles": 32.4,
     "skiName": "Camden Snow Bowl"
   },
+  "44.43,-69.7": {
+    "ridgewoodHours": 7.78,
+    "ridgewoodMiles": 375.6,
+    "skiHours": 1.34,
+    "skiMiles": 49.5,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.43,-71.57": {
     "skiHours": 0.62,
     "skiMiles": 20.8,
+    "skiName": "Bretton Woods"
+  },
+  "44.43,-71.62": {
+    "ridgewoodHours": 7.33,
+    "ridgewoodMiles": 339.0,
+    "skiHours": 0.63,
+    "skiMiles": 19.3,
+    "skiName": "Bretton Woods"
+  },
+  "44.43,-71.64": {
+    "ridgewoodHours": 7.21,
+    "ridgewoodMiles": 336.9,
+    "skiHours": 0.55,
+    "skiMiles": 18.1,
     "skiName": "Bretton Woods"
   },
   "44.43,-71.74": {
@@ -7426,6 +9360,34 @@
     "ridgewoodMiles": 442.3,
     "skiHours": 1.24,
     "skiMiles": 53.9,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.44,-68.95": {
+    "ridgewoodHours": 8.6,
+    "ridgewoodMiles": 413.7,
+    "skiHours": 0.63,
+    "skiMiles": 25.3,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.44,-69.01": {
+    "ridgewoodHours": 8.49,
+    "ridgewoodMiles": 410.5,
+    "skiHours": 0.52,
+    "skiMiles": 22.1,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.44,-69.05": {
+    "ridgewoodHours": 8.51,
+    "ridgewoodMiles": 411.1,
+    "skiHours": 0.54,
+    "skiMiles": 22.8,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.44,-69.76": {
+    "ridgewoodHours": 7.76,
+    "ridgewoodMiles": 372.6,
+    "skiHours": 1.42,
+    "skiMiles": 51.1,
     "skiName": "Camden Snow Bowl"
   },
   "44.44,-69.87": {
@@ -7500,6 +9462,13 @@
     "skiHours": 0.95,
     "skiMiles": 32.2,
     "skiName": "Black Mountain of Maine"
+  },
+  "44.45,-70.65": {
+    "ridgewoodHours": 7.87,
+    "ridgewoodMiles": 368.6,
+    "skiHours": 0.4,
+    "skiMiles": 15.2,
+    "skiName": "Mount Abram"
   },
   "44.45,-71.71": {
     "ridgewoodHours": 7.14,
@@ -7582,6 +9551,13 @@
     "skiMiles": 48.5,
     "skiName": "Black Mountain of Maine"
   },
+  "44.46,-71.18": {
+    "ridgewoodHours": 8.08,
+    "ridgewoodMiles": 365.8,
+    "skiHours": 0.62,
+    "skiMiles": 17.7,
+    "skiName": "Wildcat"
+  },
   "44.46,-71.6": {
     "ridgewoodHours": 7.28,
     "ridgewoodMiles": 343.6,
@@ -7624,6 +9600,20 @@
     "skiMiles": 28.1,
     "skiName": "Camden Snow Bowl"
   },
+  "44.47,-69.0": {
+    "ridgewoodHours": 8.57,
+    "ridgewoodMiles": 413.2,
+    "skiHours": 0.6,
+    "skiMiles": 24.8,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.47,-69.74": {
+    "ridgewoodHours": 7.72,
+    "ridgewoodMiles": 375.3,
+    "skiHours": 1.4,
+    "skiMiles": 53.8,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.47,-69.83": {
     "ridgewoodHours": 7.69,
     "ridgewoodMiles": 373.9,
@@ -7655,6 +9645,13 @@
   "44.48,-68.1": {
     "skiHours": 1.73,
     "skiMiles": 76.3,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.48,-68.23": {
+    "ridgewoodHours": 9.74,
+    "ridgewoodMiles": 460.4,
+    "skiHours": 1.77,
+    "skiMiles": 72.0,
     "skiName": "Camden Snow Bowl"
   },
   "44.48,-70.15": {
@@ -7722,6 +9719,13 @@
     "skiMiles": 66.3,
     "skiName": "Camden Snow Bowl"
   },
+  "44.49,-68.52": {
+    "ridgewoodHours": 9.35,
+    "ridgewoodMiles": 447.3,
+    "skiHours": 1.38,
+    "skiMiles": 58.9,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.49,-68.68": {
     "ridgewoodHours": 9.11,
     "ridgewoodMiles": 437.8,
@@ -7749,6 +9753,13 @@
     "skiHours": 1.16,
     "skiMiles": 44.1,
     "skiName": "Camden Snow Bowl"
+  },
+  "44.49,-70.38": {
+    "ridgewoodHours": 7.63,
+    "ridgewoodMiles": 370.3,
+    "skiHours": 0.47,
+    "skiMiles": 14.2,
+    "skiName": "Black Mountain of Maine"
   },
   "44.49,-70.71": {
     "ridgewoodHours": 8.07,
@@ -7793,6 +9804,13 @@
     "skiMiles": 75.5,
     "skiName": "Camden Snow Bowl"
   },
+  "44.5,-68.13": {
+    "ridgewoodHours": 9.68,
+    "ridgewoodMiles": 463.2,
+    "skiHours": 1.71,
+    "skiMiles": 74.8,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.5,-68.35": {
     "skiHours": 1.42,
     "skiMiles": 63.4,
@@ -7812,11 +9830,39 @@
     "skiMiles": 58.3,
     "skiName": "Camden Snow Bowl"
   },
+  "44.5,-70.46": {
+    "ridgewoodHours": 7.9,
+    "ridgewoodMiles": 375.7,
+    "skiHours": 0.49,
+    "skiMiles": 11.2,
+    "skiName": "Black Mountain of Maine"
+  },
+  "44.5,-71.95": {
+    "ridgewoodHours": 6.85,
+    "ridgewoodMiles": 325.3,
+    "skiHours": 0.85,
+    "skiMiles": 14.9,
+    "skiName": "Burke Mountain"
+  },
+  "44.51,-67.6": {
+    "ridgewoodHours": 10.76,
+    "ridgewoodMiles": 504.2,
+    "skiHours": 2.79,
+    "skiMiles": 115.9,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.51,-67.7": {
     "ridgewoodHours": 10.78,
     "ridgewoodMiles": 500.0,
     "skiHours": 2.81,
     "skiMiles": 111.6,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.51,-68.17": {
+    "ridgewoodHours": 9.6,
+    "ridgewoodMiles": 460.7,
+    "skiHours": 1.63,
+    "skiMiles": 72.3,
     "skiName": "Camden Snow Bowl"
   },
   "44.51,-68.39": {
@@ -7865,6 +9911,13 @@
     "skiHours": 0.36,
     "skiMiles": 7.4,
     "skiName": "Black Mountain of Maine"
+  },
+  "44.51,-70.68": {
+    "ridgewoodHours": 8.01,
+    "ridgewoodMiles": 373.4,
+    "skiHours": 0.33,
+    "skiMiles": 12.0,
+    "skiName": "Sunday River"
   },
   "44.51,-70.72": {
     "ridgewoodHours": 8.17,
@@ -7956,9 +10009,23 @@
     "skiMiles": 25.4,
     "skiName": "Bretton Woods"
   },
+  "44.53,-67.71": {
+    "ridgewoodHours": 10.65,
+    "ridgewoodMiles": 497.4,
+    "skiHours": 2.68,
+    "skiMiles": 109.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.53,-68.13": {
     "skiHours": 1.83,
     "skiMiles": 76.0,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.53,-68.28": {
+    "ridgewoodHours": 9.45,
+    "ridgewoodMiles": 454.3,
+    "skiHours": 1.48,
+    "skiMiles": 66.0,
     "skiName": "Camden Snow Bowl"
   },
   "44.53,-68.39": {
@@ -8002,6 +10069,13 @@
   "44.53,-69.98": {
     "skiHours": 1.29,
     "skiMiles": 43.1,
+    "skiName": "Black Mountain of Maine"
+  },
+  "44.53,-70.39": {
+    "ridgewoodHours": 7.99,
+    "ridgewoodMiles": 384.7,
+    "skiHours": 0.56,
+    "skiMiles": 13.2,
     "skiName": "Black Mountain of Maine"
   },
   "44.53,-70.59": {
@@ -8054,9 +10128,25 @@
     "skiMiles": 86.6,
     "skiName": "Camden Snow Bowl"
   },
+  "44.54,-68.12": {
+    "ridgewoodHours": 9.87,
+    "ridgewoodMiles": 465.4,
+    "skiHours": 1.9,
+    "skiMiles": 77.1,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.54,-68.28": {
+    "ridgewoodHours": 9.44,
+    "ridgewoodMiles": 454.2,
     "skiHours": 1.54,
     "skiMiles": 66.7,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.54,-68.43": {
+    "ridgewoodHours": 9.22,
+    "ridgewoodMiles": 446.2,
+    "skiHours": 1.25,
+    "skiMiles": 57.8,
     "skiName": "Camden Snow Bowl"
   },
   "44.54,-68.44": {
@@ -8064,6 +10154,13 @@
     "ridgewoodMiles": 445.7,
     "skiHours": 1.24,
     "skiMiles": 57.4,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.54,-68.5": {
+    "ridgewoodHours": 9.16,
+    "ridgewoodMiles": 442.6,
+    "skiHours": 1.19,
+    "skiMiles": 54.3,
     "skiName": "Camden Snow Bowl"
   },
   "44.54,-68.52": {
@@ -8099,10 +10196,24 @@
     "skiMiles": 49.6,
     "skiName": "Black Mountain of Maine"
   },
+  "44.54,-69.99": {
+    "ridgewoodHours": 7.9,
+    "ridgewoodMiles": 377.6,
+    "skiHours": 1.29,
+    "skiMiles": 43.0,
+    "skiName": "Black Mountain of Maine"
+  },
   "44.54,-71.98": {
     "ridgewoodHours": 6.86,
     "ridgewoodMiles": 327.6,
     "skiHours": 0.7,
+    "skiMiles": 10.3,
+    "skiName": "Burke Mountain"
+  },
+  "44.54,-72.01": {
+    "ridgewoodHours": 6.77,
+    "ridgewoodMiles": 327.3,
+    "skiHours": 0.64,
     "skiMiles": 10.3,
     "skiName": "Burke Mountain"
   },
@@ -8112,6 +10223,20 @@
     "skiHours": 0.7,
     "skiMiles": 18.5,
     "skiName": "Stowe"
+  },
+  "44.55,-67.62": {
+    "ridgewoodHours": 10.63,
+    "ridgewoodMiles": 500.7,
+    "skiHours": 2.66,
+    "skiMiles": 112.3,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.55,-67.63": {
+    "ridgewoodHours": 10.62,
+    "ridgewoodMiles": 500.4,
+    "skiHours": 2.65,
+    "skiMiles": 112.1,
+    "skiName": "Camden Snow Bowl"
   },
   "44.55,-67.67": {
     "skiHours": 2.71,
@@ -8123,6 +10248,13 @@
     "ridgewoodMiles": 498.9,
     "skiHours": 2.75,
     "skiMiles": 110.5,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.55,-67.8": {
+    "ridgewoodHours": 10.66,
+    "ridgewoodMiles": 493.1,
+    "skiHours": 2.69,
+    "skiMiles": 104.7,
     "skiName": "Camden Snow Bowl"
   },
   "44.55,-68.37": {
@@ -8163,12 +10295,33 @@
     "skiMiles": 40.8,
     "skiName": "Black Mountain of Maine"
   },
+  "44.55,-70.43": {
+    "ridgewoodHours": 7.88,
+    "ridgewoodMiles": 378.1,
+    "skiHours": 0.44,
+    "skiMiles": 10.4,
+    "skiName": "Black Mountain of Maine"
+  },
   "44.55,-71.16": {
     "ridgewoodHours": 8.24,
     "ridgewoodMiles": 376.7,
     "skiHours": 0.89,
     "skiMiles": 23.2,
     "skiName": "Wildcat"
+  },
+  "44.55,-72.03": {
+    "ridgewoodHours": 6.79,
+    "ridgewoodMiles": 327.8,
+    "skiHours": 0.71,
+    "skiMiles": 12.0,
+    "skiName": "Burke Mountain"
+  },
+  "44.55,-72.13": {
+    "ridgewoodHours": 6.95,
+    "ridgewoodMiles": 331.6,
+    "skiHours": 0.94,
+    "skiMiles": 19.2,
+    "skiName": "Burke Mountain"
   },
   "44.55,-72.47": {
     "ridgewoodHours": 7.24,
@@ -8184,9 +10337,23 @@
     "skiMiles": 20.0,
     "skiName": "Stowe"
   },
+  "44.55,-72.62": {
+    "ridgewoodHours": 7.11,
+    "ridgewoodMiles": 337.1,
+    "skiHours": 0.58,
+    "skiMiles": 14.7,
+    "skiName": "Stowe"
+  },
   "44.56,-67.64": {
     "skiHours": 2.63,
     "skiMiles": 111.0,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.56,-67.83": {
+    "ridgewoodHours": 10.29,
+    "ridgewoodMiles": 482.6,
+    "skiHours": 2.32,
+    "skiMiles": 94.3,
     "skiName": "Camden Snow Bowl"
   },
   "44.56,-68.2": {
@@ -8380,6 +10547,13 @@
     "skiMiles": 5.0,
     "skiName": "Black Mountain of Maine"
   },
+  "44.57,-70.57": {
+    "ridgewoodHours": 8.04,
+    "ridgewoodMiles": 383.6,
+    "skiHours": 0.05,
+    "skiMiles": 0.8,
+    "skiName": "Black Mountain of Maine"
+  },
   "44.57,-70.7": {
     "skiHours": 0.53,
     "skiMiles": 9.1,
@@ -8449,6 +10623,13 @@
     "skiMiles": 60.7,
     "skiName": "Camden Snow Bowl"
   },
+  "44.58,-68.48": {
+    "ridgewoodHours": 9.33,
+    "ridgewoodMiles": 449.3,
+    "skiHours": 1.36,
+    "skiMiles": 60.9,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.58,-68.59": {
     "ridgewoodHours": 9.33,
     "ridgewoodMiles": 443.5,
@@ -8461,6 +10642,13 @@
     "ridgewoodMiles": 429.2,
     "skiHours": 0.93,
     "skiMiles": 40.8,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.58,-68.94": {
+    "ridgewoodHours": 8.89,
+    "ridgewoodMiles": 421.9,
+    "skiHours": 0.92,
+    "skiMiles": 33.5,
     "skiName": "Camden Snow Bowl"
   },
   "44.58,-69.27": {
@@ -8536,6 +10724,13 @@
     "skiMiles": 70.8,
     "skiName": "Camden Snow Bowl"
   },
+  "44.59,-68.24": {
+    "ridgewoodHours": 9.57,
+    "ridgewoodMiles": 458.2,
+    "skiHours": 1.6,
+    "skiMiles": 69.8,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.59,-68.25": {
     "ridgewoodHours": 9.55,
     "ridgewoodMiles": 457.8,
@@ -8577,6 +10772,13 @@
     "skiHours": 1.57,
     "skiMiles": 64.4,
     "skiName": "Camden Snow Bowl"
+  },
+  "44.59,-69.65": {
+    "ridgewoodHours": 7.89,
+    "ridgewoodMiles": 385.8,
+    "skiHours": 1.68,
+    "skiMiles": 63.2,
+    "skiName": "Black Mountain of Maine"
   },
   "44.59,-70.61": {
     "skiHours": 0.2,
@@ -8637,6 +10839,13 @@
     "skiMiles": 61.9,
     "skiName": "Camden Snow Bowl"
   },
+  "44.6,-68.74": {
+    "ridgewoodHours": 8.95,
+    "ridgewoodMiles": 430.8,
+    "skiHours": 0.98,
+    "skiMiles": 42.4,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.6,-68.88": {
     "ridgewoodHours": 8.98,
     "ridgewoodMiles": 428.4,
@@ -8658,11 +10867,32 @@
     "skiMiles": 10.6,
     "skiName": "Black Mountain of Maine"
   },
+  "44.6,-71.89": {
+    "ridgewoodHours": 7.06,
+    "ridgewoodMiles": 334.8,
+    "skiHours": 0.5,
+    "skiMiles": 4.3,
+    "skiName": "Burke Mountain"
+  },
+  "44.6,-72.11": {
+    "ridgewoodHours": 6.9,
+    "ridgewoodMiles": 332.5,
+    "skiHours": 0.83,
+    "skiMiles": 16.9,
+    "skiName": "Burke Mountain"
+  },
   "44.61,-67.57": {
     "ridgewoodHours": 10.65,
     "ridgewoodMiles": 502.3,
     "skiHours": 2.68,
     "skiMiles": 113.9,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.61,-67.95": {
+    "ridgewoodHours": 10.04,
+    "ridgewoodMiles": 474.7,
+    "skiHours": 2.08,
+    "skiMiles": 86.3,
     "skiName": "Camden Snow Bowl"
   },
   "44.61,-68.52": {
@@ -8691,6 +10921,13 @@
     "ridgewoodMiles": 406.2,
     "skiHours": 1.22,
     "skiMiles": 40.0,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.61,-69.62": {
+    "ridgewoodHours": 7.93,
+    "ridgewoodMiles": 386.7,
+    "skiHours": 1.62,
+    "skiMiles": 65.2,
     "skiName": "Camden Snow Bowl"
   },
   "44.61,-69.68": {
@@ -8769,6 +11006,13 @@
     "skiMiles": 88.1,
     "skiName": "Camden Snow Bowl"
   },
+  "44.62,-68.25": {
+    "ridgewoodHours": 9.73,
+    "ridgewoodMiles": 461.7,
+    "skiHours": 1.76,
+    "skiMiles": 73.3,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.62,-68.79": {
     "ridgewoodHours": 9.1,
     "ridgewoodMiles": 431.4,
@@ -8840,6 +11084,20 @@
     "ridgewoodMiles": 454.1,
     "skiHours": 1.54,
     "skiMiles": 65.7,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.63,-68.7": {
+    "ridgewoodHours": 9.07,
+    "ridgewoodMiles": 434.2,
+    "skiHours": 1.1,
+    "skiMiles": 45.9,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.63,-68.97": {
+    "ridgewoodHours": 8.94,
+    "ridgewoodMiles": 425.8,
+    "skiHours": 0.97,
+    "skiMiles": 37.4,
     "skiName": "Camden Snow Bowl"
   },
   "44.63,-68.98": {
@@ -8934,6 +11192,13 @@
     "skiMiles": 45.5,
     "skiName": "Camden Snow Bowl"
   },
+  "44.64,-69.62": {
+    "ridgewoodHours": 7.97,
+    "ridgewoodMiles": 389.1,
+    "skiHours": 1.72,
+    "skiMiles": 65.1,
+    "skiName": "Black Mountain of Maine"
+  },
   "44.64,-71.21": {
     "skiHours": 1.05,
     "skiMiles": 30.3,
@@ -8962,6 +11227,20 @@
     "skiHours": 0.39,
     "skiMiles": 12.4,
     "skiName": "Smugglers' Notch"
+  },
+  "44.65,-67.38": {
+    "ridgewoodHours": 11.01,
+    "ridgewoodMiles": 514.5,
+    "skiHours": 3.04,
+    "skiMiles": 126.1,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.65,-67.47": {
+    "ridgewoodHours": 10.87,
+    "ridgewoodMiles": 509.3,
+    "skiHours": 2.9,
+    "skiMiles": 120.9,
+    "skiName": "Camden Snow Bowl"
   },
   "44.65,-67.51": {
     "skiHours": 2.8,
@@ -9006,6 +11285,13 @@
     "skiMiles": 65.5,
     "skiName": "Camden Snow Bowl"
   },
+  "44.65,-68.69": {
+    "ridgewoodHours": 9.09,
+    "ridgewoodMiles": 435.6,
+    "skiHours": 1.12,
+    "skiMiles": 47.3,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.65,-68.7": {
     "ridgewoodHours": 9.14,
     "ridgewoodMiles": 435.4,
@@ -9036,6 +11322,13 @@
     "skiHours": 1.03,
     "skiMiles": 37.4,
     "skiName": "Bretton Woods"
+  },
+  "44.65,-72.91": {
+    "ridgewoodHours": 7.46,
+    "ridgewoodMiles": 352.7,
+    "skiHours": 0.39,
+    "skiMiles": 12.7,
+    "skiName": "Smugglers' Notch"
   },
   "44.66,-67.22": {
     "ridgewoodHours": 11.21,
@@ -9196,6 +11489,13 @@
     "skiMiles": 48.8,
     "skiName": "Black Mountain of Maine"
   },
+  "44.67,-71.57": {
+    "ridgewoodHours": 7.66,
+    "ridgewoodMiles": 359.7,
+    "skiHours": 1.07,
+    "skiMiles": 38.8,
+    "skiName": "Bretton Woods"
+  },
   "44.67,-71.88": {
     "ridgewoodHours": 7.08,
     "ridgewoodMiles": 337.9,
@@ -9243,6 +11543,13 @@
     "ridgewoodMiles": 454.0,
     "skiHours": 1.59,
     "skiMiles": 62.1,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.68,-68.86": {
+    "ridgewoodHours": 8.92,
+    "ridgewoodMiles": 436.0,
+    "skiHours": 1.18,
+    "skiMiles": 45.9,
     "skiName": "Camden Snow Bowl"
   },
   "44.68,-68.9": {
@@ -9337,6 +11644,13 @@
     "skiMiles": 54.4,
     "skiName": "Camden Snow Bowl"
   },
+  "44.69,-72.19": {
+    "ridgewoodHours": 7.13,
+    "ridgewoodMiles": 346.2,
+    "skiHours": 1.06,
+    "skiMiles": 24.7,
+    "skiName": "Burke Mountain"
+  },
   "44.69,-72.77": {
     "skiHours": 0.42,
     "skiMiles": 13.9,
@@ -9373,6 +11687,13 @@
     "skiMiles": 44.9,
     "skiName": "Camden Snow Bowl"
   },
+  "44.7,-69.63": {
+    "ridgewoodHours": 8.09,
+    "ridgewoodMiles": 394.2,
+    "skiHours": 2.95,
+    "skiMiles": 69.2,
+    "skiName": "Sugarloaf"
+  },
   "44.71,-67.31": {
     "ridgewoodHours": 11.01,
     "ridgewoodMiles": 516.3,
@@ -9381,6 +11702,8 @@
     "skiName": "Camden Snow Bowl"
   },
   "44.71,-67.32": {
+    "ridgewoodHours": 10.99,
+    "ridgewoodMiles": 515.6,
     "skiHours": 3.02,
     "skiMiles": 127.2,
     "skiName": "Camden Snow Bowl"
@@ -9464,6 +11787,13 @@
     "skiHours": 1.25,
     "skiMiles": 46.5,
     "skiName": "Camden Snow Bowl"
+  },
+  "44.72,-69.96": {
+    "ridgewoodHours": 8.26,
+    "ridgewoodMiles": 393.9,
+    "skiHours": 1.37,
+    "skiMiles": 46.8,
+    "skiName": "Black Mountain of Maine"
   },
   "44.72,-71.94": {
     "ridgewoodHours": 7.34,
@@ -9571,6 +11901,13 @@
     "skiMiles": 63.3,
     "skiName": "Sugarloaf"
   },
+  "44.74,-69.76": {
+    "ridgewoodHours": 8.16,
+    "ridgewoodMiles": 397.9,
+    "skiHours": 1.43,
+    "skiMiles": 54.1,
+    "skiName": "Black Mountain of Maine"
+  },
   "44.74,-69.95": {
     "skiHours": 1.45,
     "skiMiles": 48.7,
@@ -9634,6 +11971,13 @@
     "skiHours": 1.34,
     "skiMiles": 49.0,
     "skiName": "Camden Snow Bowl"
+  },
+  "44.75,-69.66": {
+    "ridgewoodHours": 8.16,
+    "ridgewoodMiles": 397.6,
+    "skiHours": 2.8,
+    "skiMiles": 63.1,
+    "skiName": "Sugarloaf"
   },
   "44.75,-69.84": {
     "ridgewoodHours": 8.21,
@@ -9699,12 +12043,26 @@
     "skiMiles": 121.5,
     "skiName": "Camden Snow Bowl"
   },
+  "44.76,-68.69": {
+    "ridgewoodHours": 8.93,
+    "ridgewoodMiles": 442.4,
+    "skiHours": 1.42,
+    "skiMiles": 57.4,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.76,-68.75": {
     "ridgewoodHours": 8.88,
     "ridgewoodMiles": 439.7,
     "skiHours": 1.36,
     "skiMiles": 57.1,
     "skiName": "Camden Snow Bowl"
+  },
+  "44.76,-69.59": {
+    "ridgewoodHours": 8.27,
+    "ridgewoodMiles": 401.0,
+    "skiHours": 2.91,
+    "skiMiles": 64.2,
+    "skiName": "Sugarloaf"
   },
   "44.76,-69.94": {
     "ridgewoodHours": 8.55,
@@ -9751,6 +12109,13 @@
     "skiMiles": 51.5,
     "skiName": "Camden Snow Bowl"
   },
+  "44.77,-69.73": {
+    "ridgewoodHours": 8.28,
+    "ridgewoodMiles": 401.7,
+    "skiHours": 2.75,
+    "skiMiles": 57.7,
+    "skiName": "Sugarloaf"
+  },
   "44.77,-71.14": {
     "skiHours": 0.99,
     "skiMiles": 37.0,
@@ -9768,6 +12133,13 @@
     "ridgewoodMiles": 438.1,
     "skiHours": 1.36,
     "skiMiles": 57.3,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.78,-69.13": {
+    "ridgewoodHours": 8.53,
+    "ridgewoodMiles": 421.5,
+    "skiHours": 1.41,
+    "skiMiles": 52.5,
     "skiName": "Camden Snow Bowl"
   },
   "44.78,-69.29": {
@@ -9831,6 +12203,20 @@
     "skiMiles": 21.5,
     "skiName": "Burke Mountain"
   },
+  "44.78,-73.08": {
+    "ridgewoodHours": 7.38,
+    "ridgewoodMiles": 327.6,
+    "skiHours": 0.8,
+    "skiMiles": 28.2,
+    "skiName": "Smugglers' Notch"
+  },
+  "44.78,-73.15": {
+    "ridgewoodHours": 7.49,
+    "ridgewoodMiles": 327.1,
+    "skiHours": 0.99,
+    "skiMiles": 33.4,
+    "skiName": "Smugglers' Notch"
+  },
   "44.78,-73.31": {
     "ridgewoodHours": 7.35,
     "ridgewoodMiles": 357.7,
@@ -9871,6 +12257,13 @@
     "skiMiles": 59.1,
     "skiName": "Camden Snow Bowl"
   },
+  "44.79,-69.59": {
+    "ridgewoodHours": 8.68,
+    "ridgewoodMiles": 409.0,
+    "skiHours": 3.19,
+    "skiMiles": 66.9,
+    "skiName": "Sugarloaf"
+  },
   "44.79,-71.57": {
     "ridgewoodHours": 7.91,
     "ridgewoodMiles": 369.6,
@@ -9906,6 +12299,13 @@
     "skiMiles": 57.4,
     "skiName": "Camden Snow Bowl"
   },
+  "44.8,-69.05": {
+    "ridgewoodHours": 8.55,
+    "ridgewoodMiles": 422.6,
+    "skiHours": 1.45,
+    "skiMiles": 54.2,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.8,-69.28": {
     "skiHours": 1.5,
     "skiMiles": 54.4,
@@ -9914,6 +12314,13 @@
   "44.8,-69.31": {
     "skiHours": 1.47,
     "skiMiles": 54.6,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.8,-69.46": {
+    "ridgewoodHours": 8.35,
+    "ridgewoodMiles": 405.7,
+    "skiHours": 1.71,
+    "skiMiles": 65.3,
     "skiName": "Camden Snow Bowl"
   },
   "44.8,-69.47": {
@@ -9954,6 +12361,13 @@
     "skiMiles": 19.9,
     "skiName": "Smugglers' Notch"
   },
+  "44.8,-72.95": {
+    "ridgewoodHours": 7.56,
+    "ridgewoodMiles": 333.5,
+    "skiHours": 0.75,
+    "skiMiles": 26.8,
+    "skiName": "Smugglers' Notch"
+  },
   "44.8,-73.1": {
     "skiHours": 0.91,
     "skiMiles": 31.4,
@@ -9978,6 +12392,13 @@
     "ridgewoodMiles": 452.3,
     "skiHours": 1.57,
     "skiMiles": 61.9,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.81,-68.78": {
+    "ridgewoodHours": 8.82,
+    "ridgewoodMiles": 437.7,
+    "skiHours": 1.41,
+    "skiMiles": 58.8,
     "skiName": "Camden Snow Bowl"
   },
   "44.81,-69.22": {
@@ -10019,6 +12440,13 @@
     "skiHours": 0.58,
     "skiMiles": 19.1,
     "skiName": "Jay Peak"
+  },
+  "44.81,-73.14": {
+    "ridgewoodHours": 7.44,
+    "ridgewoodMiles": 365.6,
+    "skiHours": 0.98,
+    "skiMiles": 34.3,
+    "skiName": "Smugglers' Notch"
   },
   "44.82,-67.07": {
     "ridgewoodHours": 11.3,
@@ -10079,6 +12507,13 @@
     "skiMiles": 87.9,
     "skiName": "Camden Snow Bowl"
   },
+  "44.83,-68.97": {
+    "ridgewoodHours": 8.82,
+    "ridgewoodMiles": 429.9,
+    "skiHours": 1.7,
+    "skiMiles": 59.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.83,-69.31": {
     "ridgewoodHours": 8.37,
     "ridgewoodMiles": 409.5,
@@ -10116,6 +12551,13 @@
     "skiHours": 0.44,
     "skiMiles": 12.8,
     "skiName": "Jay Peak"
+  },
+  "44.84,-67.02": {
+    "ridgewoodHours": 11.37,
+    "ridgewoodMiles": 532.5,
+    "skiHours": 3.4,
+    "skiMiles": 144.1,
+    "skiName": "Camden Snow Bowl"
   },
   "44.84,-68.32": {
     "ridgewoodHours": 9.47,
@@ -10166,11 +12608,25 @@
     "skiMiles": 31.3,
     "skiName": "Smugglers' Notch"
   },
+  "44.84,-73.12": {
+    "ridgewoodHours": 7.4,
+    "ridgewoodMiles": 360.4,
+    "skiHours": 1.02,
+    "skiMiles": 34.8,
+    "skiName": "Smugglers' Notch"
+  },
   "44.85,-68.33": {
     "ridgewoodHours": 9.42,
     "ridgewoodMiles": 464.2,
     "skiHours": 1.86,
     "skiMiles": 73.8,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.85,-68.89": {
+    "ridgewoodHours": 8.92,
+    "ridgewoodMiles": 434.4,
+    "skiHours": 1.63,
+    "skiMiles": 64.6,
     "skiName": "Camden Snow Bowl"
   },
   "44.85,-69.21": {
@@ -10179,6 +12635,13 @@
     "skiHours": 1.58,
     "skiMiles": 55.0,
     "skiName": "Camden Snow Bowl"
+  },
+  "44.85,-69.76": {
+    "ridgewoodHours": 8.48,
+    "ridgewoodMiles": 407.2,
+    "skiHours": 2.76,
+    "skiMiles": 56.2,
+    "skiName": "Sugarloaf"
   },
   "44.85,-70.01": {
     "ridgewoodHours": 8.42,
@@ -10265,6 +12728,13 @@
     "skiMiles": 34.6,
     "skiName": "Smugglers' Notch"
   },
+  "44.86,-73.04": {
+    "ridgewoodHours": 7.41,
+    "ridgewoodMiles": 365.2,
+    "skiHours": 0.99,
+    "skiMiles": 34.7,
+    "skiName": "Smugglers' Notch"
+  },
   "44.86,-73.18": {
     "ridgewoodHours": 7.29,
     "ridgewoodMiles": 358.7,
@@ -10272,9 +12742,23 @@
     "skiMiles": 38.1,
     "skiName": "Smugglers' Notch"
   },
+  "44.86,-73.36": {
+    "ridgewoodHours": 7.34,
+    "ridgewoodMiles": 353.3,
+    "skiHours": 1.64,
+    "skiMiles": 63.4,
+    "skiName": "Smugglers' Notch"
+  },
   "44.87,-67.11": {
     "skiHours": 3.55,
     "skiMiles": 145.5,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.87,-68.3": {
+    "ridgewoodHours": 9.5,
+    "ridgewoodMiles": 466.4,
+    "skiHours": 1.95,
+    "skiMiles": 76.0,
     "skiName": "Camden Snow Bowl"
   },
   "44.87,-68.84": {
@@ -10289,6 +12773,13 @@
     "ridgewoodMiles": 417.8,
     "skiHours": 1.74,
     "skiMiles": 57.4,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.87,-69.41": {
+    "ridgewoodHours": 8.45,
+    "ridgewoodMiles": 413.1,
+    "skiHours": 1.69,
+    "skiMiles": 62.8,
     "skiName": "Camden Snow Bowl"
   },
   "44.87,-69.47": {
@@ -10327,6 +12818,8 @@
     "skiName": "Jay Peak"
   },
   "44.87,-72.98": {
+    "ridgewoodHours": 7.59,
+    "ridgewoodMiles": 367.9,
     "skiHours": 1.02,
     "skiMiles": 32.9,
     "skiName": "Jay Peak"
@@ -10344,6 +12837,13 @@
     "skiHours": 1.13,
     "skiMiles": 37.7,
     "skiName": "Smugglers' Notch"
+  },
+  "44.88,-68.67": {
+    "ridgewoodHours": 9.0,
+    "ridgewoodMiles": 445.5,
+    "skiHours": 1.64,
+    "skiMiles": 66.9,
+    "skiName": "Camden Snow Bowl"
   },
   "44.88,-69.28": {
     "ridgewoodHours": 8.38,
@@ -10461,6 +12961,13 @@
     "skiMiles": 122.1,
     "skiName": "Camden Snow Bowl"
   },
+  "44.9,-67.6": {
+    "ridgewoodHours": 10.55,
+    "ridgewoodMiles": 509.9,
+    "skiHours": 3.0,
+    "skiMiles": 119.5,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.9,-68.69": {
     "ridgewoodHours": 9.0,
     "ridgewoodMiles": 446.3,
@@ -10473,6 +12980,13 @@
     "ridgewoodMiles": 434.6,
     "skiHours": 1.88,
     "skiMiles": 66.2,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.9,-69.01": {
+    "ridgewoodHours": 8.96,
+    "ridgewoodMiles": 434.0,
+    "skiHours": 1.85,
+    "skiMiles": 65.6,
     "skiName": "Camden Snow Bowl"
   },
   "44.9,-71.35": {
@@ -10520,6 +13034,20 @@
     "skiMiles": 54.9,
     "skiName": "Burke Mountain"
   },
+  "44.91,-72.4": {
+    "ridgewoodHours": 7.58,
+    "ridgewoodMiles": 364.9,
+    "skiHours": 0.29,
+    "skiMiles": 8.8,
+    "skiName": "Jay Peak"
+  },
+  "44.91,-73.31": {
+    "ridgewoodHours": 7.15,
+    "ridgewoodMiles": 348.8,
+    "skiHours": 1.55,
+    "skiMiles": 55.8,
+    "skiName": "Jay Peak"
+  },
   "44.92,-67.01": {
     "ridgewoodHours": 11.62,
     "ridgewoodMiles": 558.3,
@@ -10546,6 +13074,13 @@
     "ridgewoodMiles": 447.1,
     "skiHours": 1.77,
     "skiMiles": 68.5,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.92,-69.06": {
+    "ridgewoodHours": 8.92,
+    "ridgewoodMiles": 432.2,
+    "skiHours": 1.82,
+    "skiMiles": 63.8,
     "skiName": "Camden Snow Bowl"
   },
   "44.92,-69.38": {
@@ -10616,6 +13151,13 @@
     "skiMiles": 139.2,
     "skiName": "Camden Snow Bowl"
   },
+  "44.93,-68.73": {
+    "ridgewoodHours": 9.07,
+    "ridgewoodMiles": 449.1,
+    "skiHours": 1.7,
+    "skiMiles": 70.4,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.93,-68.85": {
     "skiHours": 1.75,
     "skiMiles": 68.6,
@@ -10628,12 +13170,26 @@
     "skiMiles": 65.7,
     "skiName": "Camden Snow Bowl"
   },
+  "44.93,-69.63": {
+    "ridgewoodHours": 8.73,
+    "ridgewoodMiles": 415.3,
+    "skiHours": 2.95,
+    "skiMiles": 64.3,
+    "skiName": "Sugarloaf"
+  },
   "44.93,-69.96": {
     "ridgewoodHours": 8.73,
     "ridgewoodMiles": 415.0,
     "skiHours": 2.45,
     "skiMiles": 42.9,
     "skiName": "Sugarloaf"
+  },
+  "44.93,-72.13": {
+    "ridgewoodHours": 7.47,
+    "ridgewoodMiles": 362.8,
+    "skiHours": 0.78,
+    "skiMiles": 26.9,
+    "skiName": "Jay Peak"
   },
   "44.93,-72.24": {
     "ridgewoodHours": 7.44,
@@ -10654,12 +13210,28 @@
     "skiMiles": 115.6,
     "skiName": "Camden Snow Bowl"
   },
+  "44.94,-68.68": {
+    "ridgewoodHours": 9.08,
+    "ridgewoodMiles": 451.7,
+    "skiHours": 1.72,
+    "skiMiles": 73.1,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.94,-69.37": {
     "skiHours": 1.87,
     "skiMiles": 69.1,
     "skiName": "Camden Snow Bowl"
   },
+  "44.94,-69.66": {
+    "ridgewoodHours": 8.62,
+    "ridgewoodMiles": 414.3,
+    "skiHours": 2.84,
+    "skiMiles": 63.4,
+    "skiName": "Sugarloaf"
+  },
   "44.94,-71.37": {
+    "ridgewoodHours": 8.6,
+    "ridgewoodMiles": 391.1,
     "skiHours": 1.78,
     "skiMiles": 57.1,
     "skiName": "Sunday River"
@@ -10668,6 +13240,13 @@
     "skiHours": 1.87,
     "skiMiles": 58.6,
     "skiName": "Sunday River"
+  },
+  "44.94,-71.51": {
+    "ridgewoodHours": 8.23,
+    "ridgewoodMiles": 382.3,
+    "skiHours": 1.82,
+    "skiMiles": 55.8,
+    "skiName": "Burke Mountain"
   },
   "44.94,-71.96": {
     "skiHours": 1.37,
@@ -10769,6 +13348,13 @@
     "skiMiles": 149.6,
     "skiName": "Camden Snow Bowl"
   },
+  "44.96,-69.54": {
+    "ridgewoodHours": 8.9,
+    "ridgewoodMiles": 421.9,
+    "skiHours": 3.11,
+    "skiMiles": 71.0,
+    "skiName": "Sugarloaf"
+  },
   "44.96,-69.89": {
     "ridgewoodHours": 8.61,
     "ridgewoodMiles": 418.4,
@@ -10804,11 +13390,25 @@
     "skiMiles": 155.7,
     "skiName": "Camden Snow Bowl"
   },
+  "44.97,-67.73": {
+    "ridgewoodHours": 10.48,
+    "ridgewoodMiles": 502.4,
+    "skiHours": 2.92,
+    "skiMiles": 112.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "44.97,-68.63": {
     "ridgewoodHours": 9.59,
     "ridgewoodMiles": 455.0,
     "skiHours": 2.21,
     "skiMiles": 76.6,
+    "skiName": "Camden Snow Bowl"
+  },
+  "44.97,-68.96": {
+    "ridgewoodHours": 9.02,
+    "ridgewoodMiles": 435.9,
+    "skiHours": 1.85,
+    "skiMiles": 73.6,
     "skiName": "Camden Snow Bowl"
   },
   "44.97,-69.25": {
@@ -10896,12 +13496,33 @@
     "skiMiles": 60.2,
     "skiName": "Burke Mountain"
   },
+  "44.98,-72.18": {
+    "ridgewoodHours": 7.48,
+    "ridgewoodMiles": 361.5,
+    "skiHours": 0.72,
+    "skiMiles": 24.0,
+    "skiName": "Jay Peak"
+  },
+  "44.98,-72.53": {
+    "ridgewoodHours": 7.89,
+    "ridgewoodMiles": 376.6,
+    "skiHours": 0.38,
+    "skiMiles": 12.3,
+    "skiName": "Jay Peak"
+  },
   "44.98,-72.62": {
     "ridgewoodHours": 8.07,
     "ridgewoodMiles": 385.3,
     "skiHours": 0.74,
     "skiMiles": 22.8,
     "skiName": "Jay Peak"
+  },
+  "44.99,-68.64": {
+    "ridgewoodHours": 9.24,
+    "ridgewoodMiles": 453.1,
+    "skiHours": 1.85,
+    "skiMiles": 74.6,
+    "skiName": "Camden Snow Bowl"
   },
   "44.99,-69.0": {
     "skiHours": 1.94,
@@ -10963,6 +13584,8 @@
     "skiName": "Sugarloaf"
   },
   "45.01,-71.5": {
+    "ridgewoodHours": 8.37,
+    "ridgewoodMiles": 381.9,
     "skiHours": 1.95,
     "skiMiles": 55.3,
     "skiName": "Burke Mountain"
@@ -10988,14 +13611,35 @@
     "skiMiles": 75.1,
     "skiName": "Sugarloaf"
   },
+  "45.03,-67.51": {
+    "ridgewoodHours": 11.41,
+    "ridgewoodMiles": 516.1,
+    "skiHours": 3.85,
+    "skiMiles": 125.7,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.03,-68.61": {
     "skiHours": 2.03,
     "skiMiles": 78.1,
     "skiName": "Camden Snow Bowl"
   },
+  "45.03,-69.17": {
+    "ridgewoodHours": 8.9,
+    "ridgewoodMiles": 429.6,
+    "skiHours": 2.05,
+    "skiMiles": 70.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.03,-69.25": {
     "skiHours": 1.9,
     "skiMiles": 71.3,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.04,-67.56": {
+    "ridgewoodHours": 10.53,
+    "ridgewoodMiles": 513.5,
+    "skiHours": 2.98,
+    "skiMiles": 123.1,
     "skiName": "Camden Snow Bowl"
   },
   "45.04,-68.56": {
@@ -11196,6 +13840,13 @@
     "skiMiles": 84.5,
     "skiName": "Sugarloaf"
   },
+  "45.13,-68.61": {
+    "ridgewoodHours": 9.54,
+    "ridgewoodMiles": 463.4,
+    "skiHours": 2.15,
+    "skiMiles": 85.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.14,-69.3": {
     "skiHours": 2.36,
     "skiMiles": 83.9,
@@ -11215,6 +13866,13 @@
     "skiMiles": 132.6,
     "skiName": "Camden Snow Bowl"
   },
+  "45.15,-67.5": {
+    "ridgewoodHours": 10.83,
+    "ridgewoodMiles": 522.6,
+    "skiHours": 3.27,
+    "skiMiles": 132.2,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.15,-68.62": {
     "ridgewoodHours": 9.54,
     "ridgewoodMiles": 465.2,
@@ -11229,11 +13887,53 @@
     "skiMiles": 88.2,
     "skiName": "Camden Snow Bowl"
   },
+  "45.16,-67.29": {
+    "ridgewoodHours": 10.9,
+    "ridgewoodMiles": 530.3,
+    "skiHours": 3.35,
+    "skiMiles": 139.8,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.16,-68.31": {
     "ridgewoodHours": 10.07,
     "ridgewoodMiles": 491.6,
     "skiHours": 2.71,
     "skiMiles": 113.0,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.16,-68.84": {
+    "ridgewoodHours": 9.41,
+    "ridgewoodMiles": 466.1,
+    "skiHours": 2.05,
+    "skiMiles": 87.4,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.16,-69.4": {
+    "ridgewoodHours": 9.0,
+    "ridgewoodMiles": 438.0,
+    "skiHours": 2.17,
+    "skiMiles": 83.6,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.17,-67.25": {
+    "ridgewoodHours": 11.01,
+    "ridgewoodMiles": 534.7,
+    "skiHours": 3.45,
+    "skiMiles": 144.3,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.17,-67.29": {
+    "ridgewoodHours": 10.92,
+    "ridgewoodMiles": 531.0,
+    "skiHours": 3.37,
+    "skiMiles": 140.6,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.17,-68.32": {
+    "ridgewoodHours": 10.01,
+    "ridgewoodMiles": 490.7,
+    "skiHours": 2.65,
+    "skiMiles": 112.1,
     "skiName": "Camden Snow Bowl"
   },
   "45.17,-68.45": {
@@ -11306,6 +14006,20 @@
     "skiMiles": 92.4,
     "skiName": "Camden Snow Bowl"
   },
+  "45.19,-69.24": {
+    "ridgewoodHours": 9.06,
+    "ridgewoodMiles": 437.8,
+    "skiHours": 2.23,
+    "skiMiles": 83.4,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.2,-68.45": {
+    "ridgewoodHours": 9.75,
+    "ridgewoodMiles": 482.7,
+    "skiHours": 2.38,
+    "skiMiles": 104.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.2,-68.84": {
     "ridgewoodHours": 9.59,
     "ridgewoodMiles": 469.5,
@@ -11326,6 +14040,13 @@
     "skiHours": 3.4,
     "skiMiles": 83.9,
     "skiName": "Sugarloaf"
+  },
+  "45.21,-68.43": {
+    "ridgewoodHours": 9.78,
+    "ridgewoodMiles": 483.9,
+    "skiHours": 2.42,
+    "skiMiles": 105.3,
+    "skiName": "Camden Snow Bowl"
   },
   "45.21,-68.46": {
     "skiHours": 2.37,
@@ -11391,11 +14112,32 @@
     "skiMiles": 87.1,
     "skiName": "Camden Snow Bowl"
   },
+  "45.24,-67.55": {
+    "ridgewoodHours": 11.15,
+    "ridgewoodMiles": 530.5,
+    "skiHours": 3.59,
+    "skiMiles": 140.1,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.24,-68.46": {
     "ridgewoodHours": 9.96,
     "ridgewoodMiles": 485.5,
     "skiHours": 2.6,
     "skiMiles": 106.8,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.24,-68.67": {
+    "ridgewoodHours": 9.4,
+    "ridgewoodMiles": 470.6,
+    "skiHours": 2.04,
+    "skiMiles": 91.9,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.24,-69.03": {
+    "ridgewoodHours": 9.31,
+    "ridgewoodMiles": 448.3,
+    "skiHours": 2.36,
+    "skiMiles": 99.7,
     "skiName": "Camden Snow Bowl"
   },
   "45.24,-69.11": {
@@ -11438,6 +14180,20 @@
     "skiMiles": 92.0,
     "skiName": "Sugarloaf"
   },
+  "45.26,-69.11": {
+    "ridgewoodHours": 9.3,
+    "ridgewoodMiles": 446.6,
+    "skiHours": 2.47,
+    "skiMiles": 92.2,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.26,-69.12": {
+    "ridgewoodHours": 9.31,
+    "ridgewoodMiles": 446.8,
+    "skiHours": 2.48,
+    "skiMiles": 92.5,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.26,-69.53": {
     "ridgewoodHours": 9.35,
     "ridgewoodMiles": 450.1,
@@ -11478,6 +14234,13 @@
     "skiMiles": 99.0,
     "skiName": "Camden Snow Bowl"
   },
+  "45.27,-69.18": {
+    "ridgewoodHours": 9.59,
+    "ridgewoodMiles": 451.8,
+    "skiHours": 2.77,
+    "skiMiles": 97.4,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.27,-69.2": {
     "ridgewoodHours": 9.65,
     "ridgewoodMiles": 452.8,
@@ -11512,6 +14275,13 @@
   "45.28,-68.82": {
     "skiHours": 2.6,
     "skiMiles": 101.9,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.28,-69.15": {
+    "ridgewoodHours": 9.47,
+    "ridgewoodMiles": 450.0,
+    "skiHours": 2.65,
+    "skiMiles": 95.6,
     "skiName": "Camden Snow Bowl"
   },
   "45.28,-69.5": {
@@ -11602,6 +14372,13 @@
   "45.34,-69.03": {
     "skiHours": 2.51,
     "skiMiles": 104.4,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.35,-68.46": {
+    "ridgewoodHours": 9.91,
+    "ridgewoodMiles": 491.3,
+    "skiHours": 2.55,
+    "skiMiles": 112.6,
     "skiName": "Camden Snow Bowl"
   },
   "45.35,-68.54": {
@@ -11726,6 +14503,13 @@
     "skiMiles": 101.0,
     "skiName": "Sugarloaf"
   },
+  "45.42,-68.41": {
+    "ridgewoodHours": 9.96,
+    "ridgewoodMiles": 493.6,
+    "skiHours": 2.6,
+    "skiMiles": 115.0,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.42,-68.52": {
     "skiHours": 2.43,
     "skiMiles": 108.8,
@@ -11766,6 +14550,13 @@
     "skiMiles": 106.5,
     "skiName": "Sugarloaf"
   },
+  "45.49,-69.58": {
+    "ridgewoodHours": 9.71,
+    "ridgewoodMiles": 464.9,
+    "skiHours": 4.02,
+    "skiMiles": 107.0,
+    "skiName": "Sugarloaf"
+  },
   "45.5,-68.12": {
     "ridgewoodHours": 10.4,
     "ridgewoodMiles": 513.0,
@@ -11785,6 +14576,13 @@
     "skiMiles": 115.2,
     "skiName": "Camden Snow Bowl"
   },
+  "45.5,-69.51": {
+    "ridgewoodHours": 9.97,
+    "ridgewoodMiles": 468.5,
+    "skiHours": 4.28,
+    "skiMiles": 110.6,
+    "skiName": "Sugarloaf"
+  },
   "45.5,-69.57": {
     "ridgewoodHours": 9.73,
     "ridgewoodMiles": 465.6,
@@ -11795,6 +14593,13 @@
   "45.51,-68.31": {
     "skiHours": 2.89,
     "skiMiles": 123.7,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.52,-68.35": {
+    "ridgewoodHours": 10.04,
+    "ridgewoodMiles": 499.7,
+    "skiHours": 2.68,
+    "skiMiles": 121.0,
     "skiName": "Camden Snow Bowl"
   },
   "45.52,-68.37": {
@@ -11816,6 +14621,13 @@
     "skiMiles": 127.7,
     "skiName": "Camden Snow Bowl"
   },
+  "45.55,-67.76": {
+    "ridgewoodHours": 10.96,
+    "ridgewoodMiles": 536.0,
+    "skiHours": 3.6,
+    "skiMiles": 157.3,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.55,-68.21": {
     "skiHours": 3.09,
     "skiMiles": 136.6,
@@ -11833,6 +14645,13 @@
     "ridgewoodMiles": 517.0,
     "skiHours": 3.18,
     "skiMiles": 138.3,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.56,-68.45": {
+    "ridgewoodHours": 10.07,
+    "ridgewoodMiles": 505.3,
+    "skiHours": 2.7,
+    "skiMiles": 126.6,
     "skiName": "Camden Snow Bowl"
   },
   "45.57,-67.79": {
@@ -11894,9 +14713,23 @@
     "skiMiles": 130.7,
     "skiName": "Camden Snow Bowl"
   },
+  "45.63,-70.22": {
+    "ridgewoodHours": 9.65,
+    "ridgewoodMiles": 473.7,
+    "skiHours": 3.61,
+    "skiMiles": 107.6,
+    "skiName": "Sugarloaf"
+  },
   "45.64,-67.7": {
     "skiHours": 3.94,
     "skiMiles": 165.8,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.64,-67.93": {
+    "ridgewoodHours": 11.28,
+    "ridgewoodMiles": 532.9,
+    "skiHours": 3.91,
+    "skiMiles": 154.3,
     "skiName": "Camden Snow Bowl"
   },
   "45.65,-67.93": {
@@ -11904,6 +14737,13 @@
     "ridgewoodMiles": 532.5,
     "skiHours": 3.86,
     "skiMiles": 153.8,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.66,-68.69": {
+    "ridgewoodHours": 10.11,
+    "ridgewoodMiles": 507.1,
+    "skiHours": 2.74,
+    "skiMiles": 128.5,
     "skiName": "Camden Snow Bowl"
   },
   "45.66,-68.7": {
@@ -11918,6 +14758,13 @@
     "ridgewoodMiles": 532.8,
     "skiHours": 3.65,
     "skiMiles": 154.1,
+    "skiName": "Camden Snow Bowl"
+  },
+  "45.68,-68.57": {
+    "ridgewoodHours": 9.97,
+    "ridgewoodMiles": 502.5,
+    "skiHours": 2.61,
+    "skiMiles": 123.9,
     "skiName": "Camden Snow Bowl"
   },
   "45.69,-67.85": {
@@ -12059,6 +14906,13 @@
     "skiMiles": 192.2,
     "skiName": "Camden Snow Bowl"
   },
+  "45.92,-68.35": {
+    "ridgewoodHours": 10.4,
+    "ridgewoodMiles": 524.9,
+    "skiHours": 3.03,
+    "skiMiles": 146.3,
+    "skiName": "Camden Snow Bowl"
+  },
   "45.93,-67.88": {
     "ridgewoodHours": 11.33,
     "ridgewoodMiles": 572.1,
@@ -12162,6 +15016,13 @@
     "skiMiles": 156.0,
     "skiName": "Camden Snow Bowl"
   },
+  "46.02,-68.46": {
+    "ridgewoodHours": 10.49,
+    "ridgewoodMiles": 528.8,
+    "skiHours": 3.13,
+    "skiMiles": 150.1,
+    "skiName": "Camden Snow Bowl"
+  },
   "46.04,-67.96": {
     "skiHours": 3.65,
     "skiMiles": 185.5,
@@ -12193,6 +15054,13 @@
     "ridgewoodMiles": 529.7,
     "skiHours": 3.11,
     "skiMiles": 151.0,
+    "skiName": "Camden Snow Bowl"
+  },
+  "46.06,-68.45": {
+    "ridgewoodHours": 10.48,
+    "ridgewoodMiles": 530.0,
+    "skiHours": 3.12,
+    "skiMiles": 151.3,
     "skiName": "Camden Snow Bowl"
   },
   "46.07,-68.14": {
@@ -12247,6 +15115,13 @@
     "ridgewoodMiles": 539.2,
     "skiHours": 3.19,
     "skiMiles": 160.5,
+    "skiName": "Camden Snow Bowl"
+  },
+  "46.13,-67.84": {
+    "ridgewoodHours": 10.8,
+    "ridgewoodMiles": 555.4,
+    "skiHours": 3.44,
+    "skiMiles": 176.8,
     "skiName": "Camden Snow Bowl"
   },
   "46.13,-68.0": {
@@ -12320,6 +15195,13 @@
     "skiMiles": 185.3,
     "skiName": "Camden Snow Bowl"
   },
+  "46.24,-67.86": {
+    "ridgewoodHours": 11.02,
+    "ridgewoodMiles": 562.5,
+    "skiHours": 3.66,
+    "skiMiles": 183.8,
+    "skiName": "Camden Snow Bowl"
+  },
   "46.3,-67.79": {
     "ridgewoodHours": 11.31,
     "ridgewoodMiles": 570.7,
@@ -12355,6 +15237,13 @@
     "skiMiles": 209.5,
     "skiName": "Camden Snow Bowl"
   },
+  "46.57,-68.38": {
+    "ridgewoodHours": 11.44,
+    "ridgewoodMiles": 568.8,
+    "skiHours": 4.08,
+    "skiMiles": 190.2,
+    "skiName": "Camden Snow Bowl"
+  },
   "46.58,-67.93": {
     "ridgewoodHours": 11.71,
     "ridgewoodMiles": 588.6,
@@ -12381,6 +15270,13 @@
     "skiMiles": 212.2,
     "skiName": "Camden Snow Bowl"
   },
+  "46.62,-67.91": {
+    "ridgewoodHours": 11.83,
+    "ridgewoodMiles": 593.1,
+    "skiHours": 4.47,
+    "skiMiles": 214.4,
+    "skiName": "Camden Snow Bowl"
+  },
   "46.62,-68.06": {
     "ridgewoodHours": 11.99,
     "ridgewoodMiles": 597.3,
@@ -12389,8 +15285,17 @@
     "skiName": "Camden Snow Bowl"
   },
   "46.63,-67.8": {
+    "ridgewoodHours": 11.85,
+    "ridgewoodMiles": 594.9,
     "skiHours": 4.49,
     "skiMiles": 216.2,
+    "skiName": "Camden Snow Bowl"
+  },
+  "46.63,-68.01": {
+    "ridgewoodHours": 11.76,
+    "ridgewoodMiles": 592.2,
+    "skiHours": 4.4,
+    "skiMiles": 213.6,
     "skiName": "Camden Snow Bowl"
   },
   "46.63,-68.03": {
@@ -12398,6 +15303,13 @@
     "ridgewoodMiles": 593.2,
     "skiHours": 4.42,
     "skiMiles": 214.5,
+    "skiName": "Camden Snow Bowl"
+  },
+  "46.63,-68.32": {
+    "ridgewoodHours": 11.65,
+    "ridgewoodMiles": 577.0,
+    "skiHours": 4.29,
+    "skiMiles": 198.3,
     "skiName": "Camden Snow Bowl"
   },
   "46.64,-67.82": {
@@ -12410,6 +15322,13 @@
   "46.64,-68.13": {
     "skiHours": 4.77,
     "skiMiles": 212.2,
+    "skiName": "Camden Snow Bowl"
+  },
+  "46.66,-68.24": {
+    "ridgewoodHours": 11.76,
+    "ridgewoodMiles": 581.6,
+    "skiHours": 4.4,
+    "skiMiles": 203.0,
     "skiName": "Camden Snow Bowl"
   },
   "46.66,-68.38": {
@@ -12494,6 +15413,13 @@
     "skiMiles": 222.7,
     "skiName": "Camden Snow Bowl"
   },
+  "46.78,-68.51": {
+    "ridgewoodHours": 11.97,
+    "ridgewoodMiles": 586.5,
+    "skiHours": 4.61,
+    "skiMiles": 207.9,
+    "skiName": "Camden Snow Bowl"
+  },
   "46.79,-67.94": {
     "ridgewoodHours": 12.19,
     "ridgewoodMiles": 605.1,
@@ -12522,11 +15448,25 @@
     "skiMiles": 230.3,
     "skiName": "Camden Snow Bowl"
   },
+  "46.81,-67.88": {
+    "ridgewoodHours": 12.17,
+    "ridgewoodMiles": 603.4,
+    "skiHours": 4.8,
+    "skiMiles": 224.7,
+    "skiName": "Camden Snow Bowl"
+  },
   "46.81,-68.5": {
     "ridgewoodHours": 11.97,
     "ridgewoodMiles": 588.7,
     "skiHours": 4.61,
     "skiMiles": 210.1,
+    "skiName": "Camden Snow Bowl"
+  },
+  "46.82,-68.04": {
+    "ridgewoodHours": 12.26,
+    "ridgewoodMiles": 607.3,
+    "skiHours": 4.9,
+    "skiMiles": 228.7,
     "skiName": "Camden Snow Bowl"
   },
   "46.85,-68.11": {
@@ -12574,6 +15514,13 @@
     "ridgewoodMiles": 615.7,
     "skiHours": 5.18,
     "skiMiles": 237.0,
+    "skiName": "Camden Snow Bowl"
+  },
+  "46.91,-67.92": {
+    "ridgewoodHours": 12.33,
+    "ridgewoodMiles": 614.8,
+    "skiHours": 4.97,
+    "skiMiles": 236.1,
     "skiName": "Camden Snow Bowl"
   },
   "46.94,-68.0": {
@@ -12659,11 +15606,25 @@
     "skiMiles": 240.5,
     "skiName": "Camden Snow Bowl"
   },
+  "47.0,-67.81": {
+    "ridgewoodHours": 12.35,
+    "ridgewoodMiles": 616.5,
+    "skiHours": 4.99,
+    "skiMiles": 237.9,
+    "skiName": "Camden Snow Bowl"
+  },
   "47.0,-68.06": {
     "ridgewoodHours": 12.51,
     "ridgewoodMiles": 620.5,
     "skiHours": 5.15,
     "skiMiles": 241.8,
+    "skiName": "Camden Snow Bowl"
+  },
+  "47.01,-68.02": {
+    "ridgewoodHours": 12.48,
+    "ridgewoodMiles": 620.0,
+    "skiHours": 5.11,
+    "skiMiles": 241.3,
     "skiName": "Camden Snow Bowl"
   },
   "47.01,-68.06": {
@@ -12711,6 +15672,13 @@
     "skiMiles": 250.5,
     "skiName": "Camden Snow Bowl"
   },
+  "47.19,-68.51": {
+    "ridgewoodHours": 12.9,
+    "ridgewoodMiles": 626.5,
+    "skiHours": 7.91,
+    "skiMiles": 297.8,
+    "skiName": "Sugarloaf"
+  },
   "47.19,-68.55": {
     "skiHours": 7.88,
     "skiMiles": 290.2,
@@ -12742,6 +15710,20 @@
     "skiMiles": 296.9,
     "skiName": "Sugarloaf"
   },
+  "47.23,-68.59": {
+    "ridgewoodHours": 12.72,
+    "ridgewoodMiles": 620.2,
+    "skiHours": 7.73,
+    "skiMiles": 291.4,
+    "skiName": "Sugarloaf"
+  },
+  "47.24,-68.6": {
+    "ridgewoodHours": 12.83,
+    "ridgewoodMiles": 622.5,
+    "skiHours": 7.84,
+    "skiMiles": 293.8,
+    "skiName": "Sugarloaf"
+  },
   "47.25,-68.6": {
     "ridgewoodHours": 12.82,
     "ridgewoodMiles": 622.4,
@@ -12763,6 +15745,13 @@
     "skiMiles": 298.4,
     "skiName": "Sugarloaf"
   },
+  "47.26,-68.5": {
+    "ridgewoodHours": 13.04,
+    "ridgewoodMiles": 625.6,
+    "skiHours": 8.05,
+    "skiMiles": 296.8,
+    "skiName": "Sugarloaf"
+  },
   "47.27,-68.1": {
     "ridgewoodHours": 12.85,
     "ridgewoodMiles": 659.5,
@@ -12775,6 +15764,13 @@
     "ridgewoodMiles": 663.4,
     "skiHours": 5.69,
     "skiMiles": 284.7,
+    "skiName": "Camden Snow Bowl"
+  },
+  "47.27,-68.29": {
+    "ridgewoodHours": 13.36,
+    "ridgewoodMiles": 677.3,
+    "skiHours": 6.0,
+    "skiMiles": 298.6,
     "skiName": "Camden Snow Bowl"
   },
   "47.28,-68.27": {

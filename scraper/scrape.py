@@ -51,7 +51,7 @@ HEADERS = {
 }
 
 PRICE_CAP = 150_000
-MIN_ACRES = 2
+MIN_ACRES = 1
 SQFT_PER_ACRE = 43560
 REGION_TYPE_COUNTY = 5  # Redfin uses region_type=5 for counties / sub-state markets
 

@@ -2,7 +2,7 @@
 
 Personal tool for finding cheap Northeast US land + cabins near ski areas and within drive of Ridgewood, NY.
 
-- **Daily scrape** of Redfin for listings ≤ $150k on ≥ 2 acres across NY, VT, NH, ME, MA, RI
+- **Daily scrape** of Redfin for listings ≤ $150k on ≥ 1 acre across NY, VT, NH, ME, MA, RI
 - For each listing, computes driving time to Ridgewood NY and nearest of ~50 NE ski resorts using the free OSRM public demo server
 - **UI** (map + filterable list) deployed for free on GitHub Pages
 
@@ -72,7 +72,7 @@ Open the dev URL Vite prints (usually `http://localhost:5173`).
 
 `scraper/scrape.py`:
 - `PRICE_CAP = 150_000` — daily-scrape price ceiling
-- `MIN_ACRES = 2` — daily-scrape acreage floor
+- `MIN_ACRES = 1` — daily-scrape acreage floor
 - `STATE_NAMES` — which states to crawl
 - `uipt=1,5,6,7` in `fetch_listings_csv` — property types (1=house, 5=land, 6=other, 7=manufactured)
 

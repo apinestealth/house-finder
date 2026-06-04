@@ -6,13 +6,13 @@ import { FilterState, Listing, ListingsData, Resort, SortKey } from "./types";
 
 const DEFAULT_FILTERS: FilterState = {
   priceMin: 0,
-  priceMax: 150_000,
+  priceMax: 100_000,
   acresMin: 2,
   acresMax: 500,
   yearBuiltMin: 1700,
   yearBuiltMax: 2100,
-  skiHoursMax: 8,
-  ridgewoodHoursMax: 12,
+  skiHoursMax: 1,
+  ridgewoodHoursMax: 6,
   propertyType: "all",
   states: new Set(["NY", "VT", "NH", "ME", "MA", "RI"]),
   sortBy: "ridgewoodHoursAsc",
